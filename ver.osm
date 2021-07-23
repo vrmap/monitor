@@ -1,356 +1,276 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-07-22T00:24:50Z" areas="2021-07-21T23:44:08Z"/>
+<meta osm_base="2021-07-23T00:25:13Z" areas="2021-07-22T23:29:41Z"/>
 
 <action type="modify">
 <old>
-  <way id="88180386" version="8" timestamp="2020-08-28T05:58:44Z" changeset="90059398" uid="852319" user="vrmap">
-    <bounds minlat="45.6560958" minlon="11.0052653" maxlat="45.6633888" maxlon="11.0083074"/>
-    <nd ref="351123475" lat="45.6560958" lon="11.0068250"/>
-    <nd ref="1024645375" lat="45.6561466" lon="11.0066707"/>
-    <nd ref="1024645607" lat="45.6561250" lon="11.0064642"/>
-    <nd ref="1024645547" lat="45.6561366" lon="11.0063086"/>
-    <nd ref="1024645482" lat="45.6561942" lon="11.0061264"/>
-    <nd ref="1024645410" lat="45.6562561" lon="11.0059738"/>
-    <nd ref="1024645335" lat="45.6563257" lon="11.0058339"/>
-    <nd ref="1024645460" lat="45.6564250" lon="11.0056946"/>
-    <nd ref="1024645385" lat="45.6565519" lon="11.0056010"/>
-    <nd ref="1024645615" lat="45.6569674" lon="11.0052735"/>
-    <nd ref="1024645556" lat="45.6570385" lon="11.0052653"/>
-    <nd ref="1024645490" lat="45.6571020" lon="11.0053478"/>
-    <nd ref="1024645422" lat="45.6571482" lon="11.0054772"/>
-    <nd ref="1024645345" lat="45.6571732" lon="11.0058212"/>
-    <nd ref="1024645586" lat="45.6571963" lon="11.0059615"/>
-    <nd ref="1024645461" lat="45.6572424" lon="11.0060798"/>
-    <nd ref="1024645387" lat="45.6573424" lon="11.0061707"/>
-    <nd ref="1024645618" lat="45.6574405" lon="11.0062560"/>
-    <nd ref="1024645562" lat="45.6575146" lon="11.0063406"/>
-    <nd ref="1024645498" lat="45.6575671" lon="11.0064742"/>
-    <nd ref="1024645428" lat="45.6576038" lon="11.0065884"/>
-    <nd ref="1024645349" lat="45.6576464" lon="11.0066660"/>
-    <nd ref="1024645589" lat="45.6578637" lon="11.0066853"/>
-    <nd ref="1024645400" lat="45.6581311" lon="11.0066825"/>
-    <nd ref="1024645626" lat="45.6583253" lon="11.0066798"/>
-    <nd ref="1024645568" lat="45.6584465" lon="11.0066412"/>
-    <nd ref="1024645502" lat="45.6585888" lon="11.0065532"/>
-    <nd ref="1024645433" lat="45.6587004" lon="11.0064458"/>
-    <nd ref="1024645356" lat="45.6587581" lon="11.0064101"/>
-    <nd ref="1024645593" lat="45.6588196" lon="11.0064238"/>
-    <nd ref="1024645528" lat="45.6589081" lon="11.0065229"/>
-    <nd ref="1024645583" lat="45.6589947" lon="11.0066743"/>
-    <nd ref="1024645514" lat="45.6590331" lon="11.0068128"/>
-    <nd ref="2538441607" lat="45.6590396" lon="11.0068892"/>
-    <nd ref="1024645446" lat="45.6590247" lon="11.0069572"/>
-    <nd ref="1898888621" lat="45.6589932" lon="11.0070486"/>
-    <nd ref="1898888623" lat="45.6589932" lon="11.0071149"/>
-    <nd ref="1024645366" lat="45.6590060" lon="11.0071644"/>
-    <nd ref="1898888629" lat="45.6590678" lon="11.0071991"/>
-    <nd ref="1024645602" lat="45.6591354" lon="11.0072130"/>
-    <nd ref="2538441618" lat="45.6592100" lon="11.0072201"/>
-    <nd ref="1024645541" lat="45.6592887" lon="11.0071964"/>
-    <nd ref="2538441630" lat="45.6593642" lon="11.0071350"/>
-    <nd ref="1024645474" lat="45.6594517" lon="11.0070947"/>
-    <nd ref="1024645406" lat="45.6595931" lon="11.0070577"/>
-    <nd ref="1024645523" lat="45.6597675" lon="11.0070299"/>
-    <nd ref="1024645456" lat="45.6599591" lon="11.0069892"/>
-    <nd ref="2538441674" lat="45.6601120" lon="11.0069836"/>
-    <nd ref="1024645395" lat="45.6601712" lon="11.0070309"/>
-    <nd ref="1024645625" lat="45.6602382" lon="11.0072422"/>
-    <nd ref="1024645567" lat="45.6602601" lon="11.0074155"/>
-    <nd ref="1024645501" lat="45.6603052" lon="11.0074684"/>
-    <nd ref="1024645431" lat="45.6603491" lon="11.0074551"/>
-    <nd ref="2538441677" lat="45.6603882" lon="11.0073729"/>
-    <nd ref="1024645353" lat="45.6604161" lon="11.0072438"/>
-    <nd ref="2538441678" lat="45.6604796" lon="11.0070831"/>
-    <nd ref="1024645592" lat="45.6605601" lon="11.0069734"/>
-    <nd ref="1024645473" lat="45.6607067" lon="11.0066950"/>
-    <nd ref="1024645404" lat="45.6609209" lon="11.0065015"/>
-    <nd ref="1024645331" lat="45.6611575" lon="11.0062757"/>
-    <nd ref="1024645573" lat="45.6613266" lon="11.0061682"/>
-    <nd ref="1024645506" lat="45.6614693" lon="11.0061575"/>
-    <nd ref="1024645434" lat="45.6615933" lon="11.0061682"/>
-    <nd ref="1024645359" lat="45.6617135" lon="11.0062972"/>
-    <nd ref="1024645595" lat="45.6618111" lon="11.0064639"/>
-    <nd ref="1024645417" lat="45.6620065" lon="11.0068724"/>
-    <nd ref="1024645340" lat="45.6621229" lon="11.0070659"/>
-    <nd ref="1024645582" lat="45.6622206" lon="11.0074313"/>
-    <nd ref="1024645513" lat="45.6623032" lon="11.0077216"/>
-    <nd ref="1024645445" lat="45.6623971" lon="11.0079473"/>
-    <nd ref="1024645364" lat="45.6625512" lon="11.0080978"/>
-    <nd ref="1024645601" lat="45.6627127" lon="11.0082053"/>
-    <nd ref="1024645540" lat="45.6633888" lon="11.0083074"/>
-    <tag k="surface" v="gravel"/>
-    <tag k="motorcycle" v="yes"/>
-    <tag k="bicycle" v="yes"/>
-    <tag k="foot" v="yes"/>
-    <tag k="highway" v="unclassified"/>
-    <tag k="motorcar" v="yes"/>
-  </way>
-</old>
-<new>
-  <way id="88180386" version="9" timestamp="2021-07-21T13:30:21Z" changeset="108368624" uid="852319" user="vrmap">
-    <bounds minlat="45.6560958" minlon="11.0052653" maxlat="45.6633888" maxlon="11.0083074"/>
-    <nd ref="351123475" lat="45.6560958" lon="11.0068250"/>
-    <nd ref="1024645375" lat="45.6561466" lon="11.0066707"/>
-    <nd ref="1024645607" lat="45.6561250" lon="11.0064642"/>
-    <nd ref="1024645547" lat="45.6561366" lon="11.0063086"/>
-    <nd ref="1024645482" lat="45.6561942" lon="11.0061264"/>
-    <nd ref="1024645410" lat="45.6562561" lon="11.0059738"/>
-    <nd ref="1024645335" lat="45.6563257" lon="11.0058339"/>
-    <nd ref="1024645460" lat="45.6564250" lon="11.0056946"/>
-    <nd ref="1024645385" lat="45.6565519" lon="11.0056010"/>
-    <nd ref="1024645615" lat="45.6569674" lon="11.0052735"/>
-    <nd ref="1024645556" lat="45.6570385" lon="11.0052653"/>
-    <nd ref="1024645490" lat="45.6571020" lon="11.0053478"/>
-    <nd ref="1024645422" lat="45.6571482" lon="11.0054772"/>
-    <nd ref="1024645345" lat="45.6571732" lon="11.0058212"/>
-    <nd ref="1024645586" lat="45.6571963" lon="11.0059615"/>
-    <nd ref="1024645461" lat="45.6572424" lon="11.0060798"/>
-    <nd ref="1024645387" lat="45.6573424" lon="11.0061707"/>
-    <nd ref="1024645618" lat="45.6574405" lon="11.0062560"/>
-    <nd ref="1024645562" lat="45.6575146" lon="11.0063406"/>
-    <nd ref="1024645498" lat="45.6575671" lon="11.0064742"/>
-    <nd ref="1024645428" lat="45.6576038" lon="11.0065884"/>
-    <nd ref="1024645349" lat="45.6576464" lon="11.0066660"/>
-    <nd ref="1024645589" lat="45.6578637" lon="11.0066853"/>
-    <nd ref="1024645400" lat="45.6581311" lon="11.0066825"/>
-    <nd ref="1024645626" lat="45.6583253" lon="11.0066798"/>
-    <nd ref="1024645568" lat="45.6584465" lon="11.0066412"/>
-    <nd ref="1024645502" lat="45.6585888" lon="11.0065532"/>
-    <nd ref="1024645433" lat="45.6587004" lon="11.0064458"/>
-    <nd ref="1024645356" lat="45.6587581" lon="11.0064101"/>
-    <nd ref="1024645593" lat="45.6588196" lon="11.0064238"/>
-    <nd ref="1024645528" lat="45.6589081" lon="11.0065229"/>
-    <nd ref="1024645583" lat="45.6589947" lon="11.0066743"/>
-    <nd ref="1024645514" lat="45.6590331" lon="11.0068128"/>
-    <nd ref="2538441607" lat="45.6590396" lon="11.0068892"/>
-    <nd ref="1024645446" lat="45.6590247" lon="11.0069572"/>
-    <nd ref="1898888621" lat="45.6589932" lon="11.0070486"/>
-    <nd ref="1898888623" lat="45.6589932" lon="11.0071149"/>
-    <nd ref="1024645366" lat="45.6590060" lon="11.0071644"/>
-    <nd ref="1898888629" lat="45.6590678" lon="11.0071991"/>
-    <nd ref="1024645602" lat="45.6591354" lon="11.0072130"/>
-    <nd ref="2538441618" lat="45.6592100" lon="11.0072201"/>
-    <nd ref="1024645541" lat="45.6592887" lon="11.0071964"/>
-    <nd ref="2538441630" lat="45.6593642" lon="11.0071350"/>
-    <nd ref="1024645474" lat="45.6594517" lon="11.0070947"/>
-    <nd ref="1024645406" lat="45.6595931" lon="11.0070577"/>
-    <nd ref="1024645523" lat="45.6597675" lon="11.0070299"/>
-    <nd ref="1024645456" lat="45.6599591" lon="11.0069892"/>
-    <nd ref="2538441674" lat="45.6601120" lon="11.0069836"/>
-    <nd ref="1024645395" lat="45.6601712" lon="11.0070309"/>
-    <nd ref="1024645625" lat="45.6602382" lon="11.0072422"/>
-    <nd ref="1024645567" lat="45.6602601" lon="11.0074155"/>
-    <nd ref="1024645501" lat="45.6603052" lon="11.0074684"/>
-    <nd ref="1024645431" lat="45.6603491" lon="11.0074551"/>
-    <nd ref="2538441677" lat="45.6603882" lon="11.0073729"/>
-    <nd ref="1024645353" lat="45.6604161" lon="11.0072438"/>
-    <nd ref="2538441678" lat="45.6604796" lon="11.0070831"/>
-    <nd ref="1024645592" lat="45.6605601" lon="11.0069734"/>
-    <nd ref="1024645473" lat="45.6607067" lon="11.0066950"/>
-    <nd ref="1024645404" lat="45.6609209" lon="11.0065015"/>
-    <nd ref="1024645331" lat="45.6611575" lon="11.0062757"/>
-    <nd ref="1024645573" lat="45.6613266" lon="11.0061682"/>
-    <nd ref="1024645506" lat="45.6614693" lon="11.0061575"/>
-    <nd ref="1024645434" lat="45.6615933" lon="11.0061682"/>
-    <nd ref="1024645359" lat="45.6617135" lon="11.0062972"/>
-    <nd ref="1024645595" lat="45.6618111" lon="11.0064639"/>
-    <nd ref="1024645417" lat="45.6620065" lon="11.0068724"/>
-    <nd ref="1024645340" lat="45.6621229" lon="11.0070659"/>
-    <nd ref="1024645582" lat="45.6622206" lon="11.0074313"/>
-    <nd ref="1024645513" lat="45.6623032" lon="11.0077216"/>
-    <nd ref="1024645445" lat="45.6623971" lon="11.0079473"/>
-    <nd ref="1024645364" lat="45.6625512" lon="11.0080978"/>
-    <nd ref="1024645601" lat="45.6627127" lon="11.0082053"/>
-    <nd ref="1024645540" lat="45.6633888" lon="11.0083074"/>
-    <tag k="bicycle" v="yes"/>
-    <tag k="foot" v="yes"/>
-    <tag k="highway" v="unclassified"/>
-    <tag k="motorcar" v="yes"/>
-    <tag k="motorcycle" v="yes"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-    <tag k="surface" v="gravel"/>
-  </way>
-</new>
-</action>
-<action type="modify">
-<old>
-  <way id="88180561" version="20" timestamp="2021-07-11T15:35:52Z" changeset="107787360" uid="351361" user="dvdzero">
-    <bounds minlat="45.6413161" minlon="10.9998134" maxlat="45.6428746" maxlon="11.0008223"/>
-    <nd ref="2404915566" lat="45.6428746" lon="10.9998134"/>
-    <nd ref="819120621" lat="45.6427190" lon="10.9999220"/>
-    <nd ref="819120609" lat="45.6421854" lon="11.0002816"/>
-    <nd ref="2401198007" lat="45.6418482" lon="11.0004909"/>
-    <nd ref="819120783" lat="45.6414877" lon="11.0007146"/>
-    <nd ref="978472721" lat="45.6413161" lon="11.0008223"/>
-    <tag k="surface" v="asphalt"/>
-    <tag k="sidewalk" v="none"/>
-    <tag k="cycleway:both" v="no"/>
-    <tag k="foot" v="yes"/>
-    <tag k="highway" v="tertiary"/>
-    <tag k="lane_markings" v="no"/>
-    <tag k="lit" v="yes"/>
-    <tag k="maxspeed:type" v="IT:urban"/>
-    <tag k="name" v="Via Roma"/>
-  </way>
-</old>
-<new>
-  <way id="88180561" version="21" timestamp="2021-07-21T13:30:21Z" changeset="108368624" uid="852319" user="vrmap">
-    <bounds minlat="45.6413161" minlon="10.9998134" maxlat="45.6428746" maxlon="11.0008223"/>
-    <nd ref="2404915566" lat="45.6428746" lon="10.9998134"/>
-    <nd ref="819120621" lat="45.6427190" lon="10.9999220"/>
-    <nd ref="819120609" lat="45.6421854" lon="11.0002816"/>
-    <nd ref="2401198007" lat="45.6418482" lon="11.0004909"/>
-    <nd ref="819120783" lat="45.6414877" lon="11.0007146"/>
-    <nd ref="978472721" lat="45.6413161" lon="11.0008223"/>
-    <tag k="cycleway:both" v="no"/>
-    <tag k="foot" v="yes"/>
-    <tag k="highway" v="tertiary"/>
-    <tag k="lane_markings" v="no"/>
-    <tag k="lit" v="yes"/>
-    <tag k="maxspeed:type" v="IT:urban"/>
-    <tag k="name" v="Via Roma"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-    <tag k="sidewalk" v="none"/>
-    <tag k="surface" v="asphalt"/>
-  </way>
-</new>
-</action>
-<action type="modify">
-<old>
-  <way id="122920017" version="8" timestamp="2019-04-28T13:36:02Z" changeset="69663945" uid="8143621" user="GabScat">
-    <bounds minlat="45.6507528" minlon="10.9890985" maxlat="45.6516162" maxlon="10.9902243"/>
-    <nd ref="1371989263" lat="45.6515238" lon="10.9890985"/>
-    <nd ref="1371989267" lat="45.6516162" lon="10.9893374"/>
-    <nd ref="1371989266" lat="45.6516030" lon="10.9894239"/>
-    <nd ref="3448179147" lat="45.6515522" lon="10.9895184"/>
-    <nd ref="1371989256" lat="45.6515046" lon="10.9895613"/>
-    <nd ref="1371989248" lat="45.6512138" lon="10.9896838"/>
-    <nd ref="1371989237" lat="45.6511018" lon="10.9897137"/>
-    <nd ref="1371989228" lat="45.6510388" lon="10.9897717"/>
-    <nd ref="1371989219" lat="45.6509618" lon="10.9898958"/>
-    <nd ref="1371989216" lat="45.6509274" lon="10.9900360"/>
-    <nd ref="6316548545" lat="45.6508818" lon="10.9902039"/>
-    <nd ref="1371989214" lat="45.6508616" lon="10.9902111"/>
-    <nd ref="1371989209" lat="45.6507528" lon="10.9902243"/>
-    <tag k="surface" v="asphalt"/>
+  <way id="71126386" version="3" timestamp="2019-03-28T09:29:22Z" changeset="68617954" uid="1928626" user="Gianfranco2014">
+    <bounds minlat="45.6160699" minlon="11.0137618" maxlat="45.6164299" maxlon="11.0153255"/>
+    <nd ref="434432687" lat="45.6160699" lon="11.0137618"/>
+    <nd ref="846921947" lat="45.6161212" lon="11.0140877"/>
+    <nd ref="846924161" lat="45.6162499" lon="11.0145701"/>
+    <nd ref="846924639" lat="45.6163365" lon="11.0149495"/>
+    <nd ref="846926564" lat="45.6164017" lon="11.0152604"/>
+    <nd ref="846923079" lat="45.6164299" lon="11.0153255"/>
     <tag k="highway" v="residential"/>
   </way>
 </old>
 <new>
-  <way id="122920017" version="9" timestamp="2021-07-21T13:30:21Z" changeset="108368624" uid="852319" user="vrmap">
-    <bounds minlat="45.6507528" minlon="10.9890985" maxlat="45.6516162" maxlon="10.9902243"/>
-    <nd ref="1371989263" lat="45.6515238" lon="10.9890985"/>
-    <nd ref="1371989267" lat="45.6516162" lon="10.9893374"/>
-    <nd ref="1371989266" lat="45.6516030" lon="10.9894239"/>
-    <nd ref="3448179147" lat="45.6515522" lon="10.9895184"/>
-    <nd ref="1371989256" lat="45.6515046" lon="10.9895613"/>
-    <nd ref="1371989248" lat="45.6512138" lon="10.9896838"/>
-    <nd ref="1371989237" lat="45.6511018" lon="10.9897137"/>
-    <nd ref="1371989228" lat="45.6510388" lon="10.9897717"/>
-    <nd ref="1371989219" lat="45.6509618" lon="10.9898958"/>
-    <nd ref="1371989216" lat="45.6509274" lon="10.9900360"/>
-    <nd ref="6316548545" lat="45.6508818" lon="10.9902039"/>
-    <nd ref="1371989214" lat="45.6508616" lon="10.9902111"/>
-    <nd ref="1371989209" lat="45.6507528" lon="10.9902243"/>
+  <way id="71126386" version="4" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6160699" minlon="11.0137618" maxlat="45.6164299" maxlon="11.0153255"/>
+    <nd ref="434432687" lat="45.6160699" lon="11.0137618"/>
+    <nd ref="846921947" lat="45.6161212" lon="11.0140877"/>
+    <nd ref="846924161" lat="45.6162499" lon="11.0145701"/>
+    <nd ref="846924639" lat="45.6163365" lon="11.0149495"/>
+    <nd ref="846926564" lat="45.6164017" lon="11.0152604"/>
+    <nd ref="846923079" lat="45.6164299" lon="11.0153255"/>
     <tag k="highway" v="residential"/>
     <tag k="sac_scale" v="hiking"/>
     <tag k="sac_scale_ref" v="T1"/>
-    <tag k="surface" v="asphalt"/>
   </way>
 </new>
 </action>
 <action type="modify">
 <old>
-  <way id="137015036" version="10" timestamp="2020-05-12T04:22:00Z" changeset="85056784" uid="676877" user="tytoalba">
-    <bounds minlat="45.6432533" minlon="10.9992819" maxlat="45.6483093" maxlon="11.0006601"/>
-    <nd ref="262108199" lat="45.6432533" lon="10.9995491"/>
-    <nd ref="1503089267" lat="45.6433621" lon="10.9994896"/>
-    <nd ref="1503089261" lat="45.6436336" lon="10.9993624"/>
-    <nd ref="1503089255" lat="45.6439711" lon="10.9992819"/>
-    <nd ref="1503089265" lat="45.6444025" lon="10.9993223"/>
-    <nd ref="1503089263" lat="45.6448300" lon="10.9993009"/>
-    <nd ref="1503089254" lat="45.6451660" lon="10.9993851"/>
-    <nd ref="7509278432" lat="45.6452938" lon="10.9994209"/>
-    <nd ref="1503089250" lat="45.6455486" lon="10.9994924"/>
-    <nd ref="1503089264" lat="45.6457151" lon="10.9996442"/>
-    <nd ref="351123496" lat="45.6458574" lon="10.9997947"/>
-    <nd ref="1909231006" lat="45.6463154" lon="11.0000636"/>
-    <nd ref="7509278421" lat="45.6466160" lon="11.0002369"/>
-    <nd ref="1025596494" lat="45.6466980" lon="11.0002841"/>
-    <nd ref="1025596458" lat="45.6470071" lon="11.0005318"/>
-    <nd ref="351123495" lat="45.6472740" lon="11.0006329"/>
-    <nd ref="2401014000" lat="45.6474828" lon="11.0006601"/>
-    <nd ref="1025596466" lat="45.6476000" lon="11.0006154"/>
-    <nd ref="2401014001" lat="45.6477306" lon="11.0005215"/>
-    <nd ref="1025596491" lat="45.6478536" lon="11.0003362"/>
-    <nd ref="2401014004" lat="45.6479969" lon="11.0001150"/>
-    <nd ref="1025596502" lat="45.6480677" lon="11.0000058"/>
-    <nd ref="2278365921" lat="45.6483093" lon="10.9997917"/>
-    <tag k="width" v="4"/>
+  <way id="84099793" version="11" timestamp="2018-08-04T17:32:39Z" changeset="61356562" uid="351361" user="dvdzero">
+    <bounds minlat="45.6396032" minlon="10.9991809" maxlat="45.6399880" maxlon="11.0006738"/>
+    <nd ref="410702199" lat="45.6396057" lon="11.0006738"/>
+    <nd ref="978472711" lat="45.6396032" lon="11.0006287"/>
+    <nd ref="978472717" lat="45.6396487" lon="11.0005796"/>
+    <nd ref="978472687" lat="45.6397307" lon="11.0005193"/>
+    <nd ref="978472695" lat="45.6398416" lon="11.0004147"/>
+    <nd ref="978472744" lat="45.6399104" lon="11.0002910"/>
+    <nd ref="978472685" lat="45.6399769" lon="11.0001102"/>
+    <nd ref="978472734" lat="45.6399880" lon="10.9999801"/>
+    <nd ref="978472691" lat="45.6398971" lon="10.9995393"/>
+    <nd ref="978472742" lat="45.6398660" lon="10.9993965"/>
+    <nd ref="978472678" lat="45.6398438" lon="10.9992823"/>
+    <nd ref="978472731" lat="45.6398594" lon="10.9991809"/>
     <tag k="surface" v="asphalt"/>
-    <tag k="highway" v="unclassified"/>
-    <tag k="lanes" v="1"/>
-    <tag k="name" v="Via degli Alpini"/>
+    <tag k="name" v="Via Saibe"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
   </way>
 </old>
 <new>
-  <way id="137015036" version="11" timestamp="2021-07-21T13:30:21Z" changeset="108368624" uid="852319" user="vrmap">
-    <bounds minlat="45.6432533" minlon="10.9992819" maxlat="45.6483093" maxlon="11.0006601"/>
-    <nd ref="262108199" lat="45.6432533" lon="10.9995491"/>
-    <nd ref="1503089267" lat="45.6433621" lon="10.9994896"/>
-    <nd ref="1503089261" lat="45.6436336" lon="10.9993624"/>
-    <nd ref="1503089255" lat="45.6439711" lon="10.9992819"/>
-    <nd ref="1503089265" lat="45.6444025" lon="10.9993223"/>
-    <nd ref="1503089263" lat="45.6448300" lon="10.9993009"/>
-    <nd ref="1503089254" lat="45.6451660" lon="10.9993851"/>
-    <nd ref="7509278432" lat="45.6452938" lon="10.9994209"/>
-    <nd ref="1503089250" lat="45.6455486" lon="10.9994924"/>
-    <nd ref="1503089264" lat="45.6457151" lon="10.9996442"/>
-    <nd ref="351123496" lat="45.6458574" lon="10.9997947"/>
-    <nd ref="1909231006" lat="45.6463154" lon="11.0000636"/>
-    <nd ref="7509278421" lat="45.6466160" lon="11.0002369"/>
-    <nd ref="1025596494" lat="45.6466980" lon="11.0002841"/>
-    <nd ref="1025596458" lat="45.6470071" lon="11.0005318"/>
-    <nd ref="351123495" lat="45.6472740" lon="11.0006329"/>
-    <nd ref="2401014000" lat="45.6474828" lon="11.0006601"/>
-    <nd ref="1025596466" lat="45.6476000" lon="11.0006154"/>
-    <nd ref="2401014001" lat="45.6477306" lon="11.0005215"/>
-    <nd ref="1025596491" lat="45.6478536" lon="11.0003362"/>
-    <nd ref="2401014004" lat="45.6479969" lon="11.0001150"/>
-    <nd ref="1025596502" lat="45.6480677" lon="11.0000058"/>
-    <nd ref="2278365921" lat="45.6483093" lon="10.9997917"/>
-    <tag k="highway" v="unclassified"/>
-    <tag k="lanes" v="1"/>
-    <tag k="name" v="Via degli Alpini"/>
+  <way id="84099793" version="12" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6396032" minlon="10.9991809" maxlat="45.6399880" maxlon="11.0006738"/>
+    <nd ref="410702199" lat="45.6396057" lon="11.0006738"/>
+    <nd ref="978472711" lat="45.6396032" lon="11.0006287"/>
+    <nd ref="978472717" lat="45.6396487" lon="11.0005796"/>
+    <nd ref="978472687" lat="45.6397307" lon="11.0005193"/>
+    <nd ref="978472695" lat="45.6398416" lon="11.0004147"/>
+    <nd ref="978472744" lat="45.6399104" lon="11.0002910"/>
+    <nd ref="978472685" lat="45.6399769" lon="11.0001102"/>
+    <nd ref="978472734" lat="45.6399880" lon="10.9999801"/>
+    <nd ref="978472691" lat="45.6398971" lon="10.9995393"/>
+    <nd ref="978472742" lat="45.6398660" lon="10.9993965"/>
+    <nd ref="978472678" lat="45.6398438" lon="10.9992823"/>
+    <nd ref="978472731" lat="45.6398594" lon="10.9991809"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+    <tag k="name" v="Via Saibe"/>
     <tag k="sac_scale" v="hiking"/>
     <tag k="sac_scale_ref" v="T1"/>
     <tag k="surface" v="asphalt"/>
-    <tag k="width" v="4"/>
   </way>
 </new>
 </action>
 <action type="modify">
 <old>
-  <way id="231768706" version="7" timestamp="2020-04-19T06:45:42Z" changeset="83762290" uid="676877" user="tytoalba">
-    <bounds minlat="45.6294596" minlon="11.0013615" maxlat="45.6309213" maxlon="11.0015543"/>
+  <way id="122463396" version="9" timestamp="2018-07-31T10:46:09Z" changeset="61224555" uid="1928626" user="Gianfranco2014">
+    <bounds minlat="45.6309213" minlon="11.0014913" maxlat="45.6323504" maxlon="11.0016299"/>
+    <nd ref="2401013891" lat="45.6323504" lon="11.0015334"/>
+    <nd ref="2401013890" lat="45.6323199" lon="11.0014913"/>
+    <nd ref="2401013889" lat="45.6321190" lon="11.0015029"/>
+    <nd ref="2401013888" lat="45.6319070" lon="11.0015707"/>
+    <nd ref="2401013887" lat="45.6316940" lon="11.0016112"/>
+    <nd ref="2401013886" lat="45.6314598" lon="11.0016299"/>
+    <nd ref="2401013885" lat="45.6311307" lon="11.0015780"/>
     <nd ref="1368443765" lat="45.6309213" lon="11.0015543"/>
-    <nd ref="2408450063" lat="45.6308403" lon="11.0015527"/>
-    <nd ref="1368443764" lat="45.6307544" lon="11.0015511"/>
-    <nd ref="1368443762" lat="45.6305224" lon="11.0015416"/>
-    <nd ref="1368443761" lat="45.6302573" lon="11.0014942"/>
-    <nd ref="7418530649" lat="45.6301353" lon="11.0014642"/>
-    <nd ref="1368443759" lat="45.6300518" lon="11.0014436"/>
-    <nd ref="1368443758" lat="45.6298286" lon="11.0014152"/>
-    <nd ref="1368443750" lat="45.6296209" lon="11.0013962"/>
-    <nd ref="1368443747" lat="45.6294596" lon="11.0013615"/>
-    <tag k="highway" v="residential"/>
+    <tag k="highway" v="path"/>
   </way>
 </old>
 <new>
+  <way id="122463396" version="10" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6309213" minlon="11.0014913" maxlat="45.6323504" maxlon="11.0016299"/>
+    <nd ref="2401013891" lat="45.6323504" lon="11.0015334"/>
+    <nd ref="2401013890" lat="45.6323199" lon="11.0014913"/>
+    <nd ref="2401013889" lat="45.6321190" lon="11.0015029"/>
+    <nd ref="2401013888" lat="45.6319070" lon="11.0015707"/>
+    <nd ref="2401013887" lat="45.6316940" lon="11.0016112"/>
+    <nd ref="2401013886" lat="45.6314598" lon="11.0016299"/>
+    <nd ref="2401013885" lat="45.6311307" lon="11.0015780"/>
+    <nd ref="1368443765" lat="45.6309213" lon="11.0015543"/>
+    <tag k="highway" v="path"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="sac_scale_ref" v="T1"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="132690280" version="9" timestamp="2021-07-18T15:37:20Z" changeset="108197389" uid="9558563" user="Urbis13">
+    <bounds minlat="45.7007343" minlon="10.7959663" maxlat="45.7021839" maxlon="10.7965202"/>
+    <nd ref="498010527" lat="45.7021839" lon="10.7965202"/>
+    <nd ref="2397354242" lat="45.7021431" lon="10.7963423"/>
+    <nd ref="2397354194" lat="45.7020493" lon="10.7962963"/>
+    <nd ref="268252921" lat="45.7018734" lon="10.7962650"/>
+    <nd ref="2397354104" lat="45.7016747" lon="10.7962517"/>
+    <nd ref="2397354001" lat="45.7012696" lon="10.7961313"/>
+    <nd ref="1567528067" lat="45.7007343" lon="10.7959663"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="motorcar:condtional" v="no @ (automatic_trasmission)"/>
+    <tag k="description" v="Solo in discesa questa parte della strada è chiusa per automobili con cambio automatico, scooter, autocarri e camper. Questi veicoli devono scendere dall'altro versante"/>
+    <tag k="description:en" v="This part of the road is closed downhill for car with automatic trasmission, motorscooters, trucks and motorhomes"/>
+    <tag k="hgv:backward" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="moped:backward:conditional" v="no @ (automatic_trasmission)"/>
+    <tag k="motorcycle:backward:conditional" v="no @ (automatic_trasmission)"/>
+    <tag k="motorhome:backward" v="no"/>
+    <tag k="name" v="Via Prada Alta"/>
+    <tag k="source:maxspeed" v="sign"/>
+  </way>
+</old>
+<new>
+  <way id="132690280" version="10" timestamp="2021-07-22T13:58:55Z" changeset="108433153" uid="131670" user="Ana Luisa">
+    <bounds minlat="45.7007343" minlon="10.7959663" maxlat="45.7021839" maxlon="10.7965202"/>
+    <nd ref="498010527" lat="45.7021839" lon="10.7965202"/>
+    <nd ref="2397354242" lat="45.7021431" lon="10.7963423"/>
+    <nd ref="2397354194" lat="45.7020493" lon="10.7962963"/>
+    <nd ref="268252921" lat="45.7018734" lon="10.7962650"/>
+    <nd ref="2397354104" lat="45.7016747" lon="10.7962517"/>
+    <nd ref="2397354001" lat="45.7012696" lon="10.7961313"/>
+    <nd ref="1567528067" lat="45.7007343" lon="10.7959663"/>
+    <tag k="description" v="Solo in discesa questa parte della strada è chiusa per automobili con cambio automatico, scooter, autocarri e camper. Questi veicoli devono scendere dall'altro versante"/>
+    <tag k="description:en" v="This part of the road is closed downhill for car with automatic trasmission, motorscooters, trucks and motorhomes"/>
+    <tag k="hgv:backward" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="moped:backward:conditional" v="no @ (automatic_trasmission)"/>
+    <tag k="motorcar:conditional" v="no @ (automatic_trasmission)"/>
+    <tag k="motorcycle:backward:conditional" v="no @ (automatic_trasmission)"/>
+    <tag k="motorhome:backward" v="no"/>
+    <tag k="name" v="Via Prada Alta"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="180489441" version="8" timestamp="2018-07-31T10:46:21Z" changeset="61224555" uid="1928626" user="Gianfranco2014">
+    <bounds minlat="45.6333927" minlon="11.0011909" maxlat="45.6348879" maxlon="11.0017958"/>
+    <nd ref="1909228560" lat="45.6333927" lon="11.0011909"/>
+    <nd ref="1909228563" lat="45.6334617" lon="11.0012990"/>
+    <nd ref="1868463247" lat="45.6335395" lon="11.0013806"/>
+    <nd ref="1909228566" lat="45.6338841" lon="11.0014284"/>
+    <nd ref="1868463249" lat="45.6342011" lon="11.0015574"/>
+    <nd ref="2404915468" lat="45.6345537" lon="11.0017098"/>
+    <nd ref="1868463243" lat="45.6346335" lon="11.0017443"/>
+    <nd ref="1909228584" lat="45.6348879" lon="11.0017958"/>
+    <tag k="highway" v="residential"/>
+    <tag k="access" v="destination"/>
+  </way>
+</old>
+<new>
+  <way id="180489441" version="9" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6333927" minlon="11.0011909" maxlat="45.6348879" maxlon="11.0017958"/>
+    <nd ref="1909228560" lat="45.6333927" lon="11.0011909"/>
+    <nd ref="1909228563" lat="45.6334617" lon="11.0012990"/>
+    <nd ref="1868463247" lat="45.6335395" lon="11.0013806"/>
+    <nd ref="1909228566" lat="45.6338841" lon="11.0014284"/>
+    <nd ref="1868463249" lat="45.6342011" lon="11.0015574"/>
+    <nd ref="2404915468" lat="45.6345537" lon="11.0017098"/>
+    <nd ref="1868463243" lat="45.6346335" lon="11.0017443"/>
+    <nd ref="1909228584" lat="45.6348879" lon="11.0017958"/>
+    <tag k="access" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="sac_scale_ref" v="T1"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="180489446" version="8" timestamp="2019-07-01T07:11:55Z" changeset="71773709" uid="852319" user="vrmap">
+    <bounds minlat="45.6354508" minlon="11.0017121" maxlat="45.6364447" maxlon="11.0018984"/>
+    <nd ref="410702174" lat="45.6354508" lon="11.0018475"/>
+    <nd ref="3761793796" lat="45.6354631" lon="11.0018769"/>
+    <nd ref="3761793797" lat="45.6354812" lon="11.0018984"/>
+    <nd ref="1909228586" lat="45.6355414" lon="11.0018941"/>
+    <nd ref="1909228587" lat="45.6357004" lon="11.0018220"/>
+    <nd ref="1868463244" lat="45.6359402" lon="11.0017883"/>
+    <nd ref="1868463251" lat="45.6361780" lon="11.0017573"/>
+    <nd ref="2404915470" lat="45.6363481" lon="11.0017385"/>
+    <nd ref="1868463239" lat="45.6364447" lon="11.0017121"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="name" v="Via Campioniva"/>
+    <tag k="access" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+  </way>
+</old>
+<new>
+  <way id="180489446" version="9" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6354508" minlon="11.0017121" maxlat="45.6364447" maxlon="11.0018984"/>
+    <nd ref="410702174" lat="45.6354508" lon="11.0018475"/>
+    <nd ref="3761793796" lat="45.6354631" lon="11.0018769"/>
+    <nd ref="3761793797" lat="45.6354812" lon="11.0018984"/>
+    <nd ref="1909228586" lat="45.6355414" lon="11.0018941"/>
+    <nd ref="1909228587" lat="45.6357004" lon="11.0018220"/>
+    <nd ref="1868463244" lat="45.6359402" lon="11.0017883"/>
+    <nd ref="1868463251" lat="45.6361780" lon="11.0017573"/>
+    <nd ref="2404915470" lat="45.6363481" lon="11.0017385"/>
+    <nd ref="1868463239" lat="45.6364447" lon="11.0017121"/>
+    <tag k="access" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+    <tag k="name" v="Via Campioniva"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="sac_scale_ref" v="T1"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="231768691" version="7" timestamp="2021-05-27T21:20:50Z" changeset="105450120" uid="351361" user="dvdzero">
+    <bounds minlat="45.6329750" minlon="11.0011909" maxlat="45.6333927" maxlon="11.0013184"/>
+    <nd ref="410702143" lat="45.6329750" lon="11.0013184"/>
+    <nd ref="1909228560" lat="45.6333927" lon="11.0011909"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="ref" v="SP14a di Erbezzo"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Via Monti Lessini"/>
+  </way>
+</old>
+<new>
+  <way id="231768691" version="8" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6329750" minlon="11.0011909" maxlat="45.6333927" maxlon="11.0013184"/>
+    <nd ref="410702143" lat="45.6329750" lon="11.0013184"/>
+    <nd ref="1909228560" lat="45.6333927" lon="11.0011909"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Via Monti Lessini"/>
+    <tag k="ref" v="SP14a di Erbezzo"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="sac_scale_ref" v="T1"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
   <way id="231768706" version="8" timestamp="2021-07-21T14:44:33Z" changeset="108371934" uid="351361" user="dvdzero">
     <bounds minlat="45.6294596" minlon="11.0013615" maxlat="45.6309213" maxlon="11.0015543"/>
     <nd ref="1368443765" lat="45.6309213" lon="11.0015543"/>
@@ -363,230 +283,576 @@
     <nd ref="1368443758" lat="45.6298286" lon="11.0014152"/>
     <nd ref="1368443750" lat="45.6296209" lon="11.0013962"/>
     <nd ref="1368443747" lat="45.6294596" lon="11.0013615"/>
-    <tag k="highway" v="residential"/>
     <tag k="surface" v="asphalt"/>
-  </way>
-</new>
-</action>
-<action type="modify">
-<old>
-  <way id="232125839" version="3" timestamp="2020-08-28T05:58:44Z" changeset="90059398" uid="852319" user="vrmap">
-    <bounds minlat="45.6624217" minlon="11.0084526" maxlat="45.6636555" maxlon="11.0091033"/>
-    <nd ref="1024645459" lat="45.6636555" lon="11.0084526"/>
-    <nd ref="7852109951" lat="45.6636384" lon="11.0084966"/>
-    <nd ref="1024645382" lat="45.6636115" lon="11.0085149"/>
-    <nd ref="1024645614" lat="45.6633851" lon="11.0085386"/>
-    <nd ref="1024645553" lat="45.6632423" lon="11.0086138"/>
-    <nd ref="1024645488" lat="45.6630057" lon="11.0087966"/>
-    <nd ref="1024645421" lat="45.6628442" lon="11.0089363"/>
-    <nd ref="2404915611" lat="45.6624217" lon="11.0091033"/>
-    <tag k="tracktype" v="grade2"/>
-    <tag k="surface" v="gravel"/>
-    <tag k="bicycle" v="yes"/>
-    <tag k="foot" v="yes"/>
-    <tag k="highway" v="track"/>
-    <tag k="motorcar" v="yes"/>
-    <tag k="motorcycle" v="yes"/>
-  </way>
-</old>
-<new>
-  <way id="232125839" version="4" timestamp="2021-07-21T13:30:21Z" changeset="108368624" uid="852319" user="vrmap">
-    <bounds minlat="45.6624217" minlon="11.0084526" maxlat="45.6636555" maxlon="11.0091033"/>
-    <nd ref="1024645459" lat="45.6636555" lon="11.0084526"/>
-    <nd ref="7852109951" lat="45.6636384" lon="11.0084966"/>
-    <nd ref="1024645382" lat="45.6636115" lon="11.0085149"/>
-    <nd ref="1024645614" lat="45.6633851" lon="11.0085386"/>
-    <nd ref="1024645553" lat="45.6632423" lon="11.0086138"/>
-    <nd ref="1024645488" lat="45.6630057" lon="11.0087966"/>
-    <nd ref="1024645421" lat="45.6628442" lon="11.0089363"/>
-    <nd ref="2404915611" lat="45.6624217" lon="11.0091033"/>
-    <tag k="bicycle" v="yes"/>
-    <tag k="foot" v="yes"/>
-    <tag k="highway" v="track"/>
-    <tag k="motorcar" v="yes"/>
-    <tag k="motorcycle" v="yes"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-    <tag k="surface" v="gravel"/>
-    <tag k="tracktype" v="grade2"/>
-  </way>
-</new>
-</action>
-<action type="modify">
-<old>
-  <way id="232662984" version="4" timestamp="2019-03-04T16:30:55Z" changeset="67773378" uid="852319" user="vrmap">
-    <bounds minlat="45.6507528" minlon="10.9902243" maxlat="45.6508944" maxlon="10.9906053"/>
-    <nd ref="1371989209" lat="45.6507528" lon="10.9902243"/>
-    <nd ref="2410006229" lat="45.6507928" lon="10.9904552"/>
-    <nd ref="6316548546" lat="45.6508405" lon="10.9905271"/>
-    <nd ref="2410006230" lat="45.6508944" lon="10.9906053"/>
     <tag k="highway" v="residential"/>
   </way>
 </old>
 <new>
-  <way id="232662984" version="5" timestamp="2021-07-21T13:30:21Z" changeset="108368624" uid="852319" user="vrmap">
-    <bounds minlat="45.6507528" minlon="10.9902243" maxlat="45.6508944" maxlon="10.9906053"/>
-    <nd ref="1371989209" lat="45.6507528" lon="10.9902243"/>
-    <nd ref="2410006229" lat="45.6507928" lon="10.9904552"/>
-    <nd ref="6316548546" lat="45.6508405" lon="10.9905271"/>
-    <nd ref="2410006230" lat="45.6508944" lon="10.9906053"/>
-    <tag k="highway" v="residential"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-  </way>
-</new>
-</action>
-<action type="modify">
-<old>
-  <way id="240104996" version="2" timestamp="2018-12-30T23:28:49Z" changeset="65900531" uid="852319" user="vrmap">
-    <bounds minlat="45.6484679" minlon="10.9976205" maxlat="45.6512929" maxlon="10.9996853"/>
-    <nd ref="1025596464" lat="45.6484679" lon="10.9996853"/>
-    <nd ref="2401014063" lat="45.6486117" lon="10.9995454"/>
-    <nd ref="1025596473" lat="45.6487339" lon="10.9993768"/>
-    <nd ref="2409983349" lat="45.6488266" lon="10.9993013"/>
-    <nd ref="351123494" lat="45.6490280" lon="10.9992373"/>
-    <nd ref="2349146676" lat="45.6494519" lon="10.9991788"/>
-    <nd ref="1025596488" lat="45.6499064" lon="10.9992053"/>
-    <nd ref="1025596501" lat="45.6502022" lon="10.9992853"/>
-    <nd ref="351123493" lat="45.6504046" lon="10.9992808"/>
-    <nd ref="1025596460" lat="45.6505437" lon="10.9992141"/>
-    <nd ref="1025596468" lat="45.6506876" lon="10.9989325"/>
-    <nd ref="2408678855" lat="45.6508240" lon="10.9986837"/>
-    <nd ref="351123492" lat="45.6510891" lon="10.9983120"/>
-    <nd ref="1025596477" lat="45.6511988" lon="10.9980500"/>
-    <nd ref="2349146678" lat="45.6512470" lon="10.9977850"/>
-    <nd ref="1025596481" lat="45.6512929" lon="10.9976205"/>
-    <tag k="width" v="4"/>
-    <tag k="surface" v="asphalt"/>
-    <tag k="highway" v="unclassified"/>
-    <tag k="name" v="Via degli Alpini"/>
-  </way>
-</old>
-<new>
-  <way id="240104996" version="3" timestamp="2021-07-21T13:30:21Z" changeset="108368624" uid="852319" user="vrmap">
-    <bounds minlat="45.6484679" minlon="10.9976205" maxlat="45.6512929" maxlon="10.9996853"/>
-    <nd ref="1025596464" lat="45.6484679" lon="10.9996853"/>
-    <nd ref="2401014063" lat="45.6486117" lon="10.9995454"/>
-    <nd ref="1025596473" lat="45.6487339" lon="10.9993768"/>
-    <nd ref="2409983349" lat="45.6488266" lon="10.9993013"/>
-    <nd ref="351123494" lat="45.6490280" lon="10.9992373"/>
-    <nd ref="2349146676" lat="45.6494519" lon="10.9991788"/>
-    <nd ref="1025596488" lat="45.6499064" lon="10.9992053"/>
-    <nd ref="1025596501" lat="45.6502022" lon="10.9992853"/>
-    <nd ref="351123493" lat="45.6504046" lon="10.9992808"/>
-    <nd ref="1025596460" lat="45.6505437" lon="10.9992141"/>
-    <nd ref="1025596468" lat="45.6506876" lon="10.9989325"/>
-    <nd ref="2408678855" lat="45.6508240" lon="10.9986837"/>
-    <nd ref="351123492" lat="45.6510891" lon="10.9983120"/>
-    <nd ref="1025596477" lat="45.6511988" lon="10.9980500"/>
-    <nd ref="2349146678" lat="45.6512470" lon="10.9977850"/>
-    <nd ref="1025596481" lat="45.6512929" lon="10.9976205"/>
-    <tag k="highway" v="unclassified"/>
-    <tag k="name" v="Via degli Alpini"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-    <tag k="surface" v="asphalt"/>
-    <tag k="width" v="4"/>
-  </way>
-</new>
-</action>
-<action type="modify">
-<old>
-  <way id="240139693" version="3" timestamp="2019-12-07T17:11:01Z" changeset="78091770" uid="676877" user="tytoalba">
-    <bounds minlat="45.6512929" minlon="10.9976205" maxlat="45.6537230" maxlon="11.0017530"/>
-    <nd ref="351123486" lat="45.6537230" lon="11.0017530"/>
-    <nd ref="2442565714" lat="45.6536360" lon="11.0016410"/>
-    <nd ref="2442565713" lat="45.6535378" lon="11.0014907"/>
-    <nd ref="351123487" lat="45.6534510" lon="11.0012734"/>
-    <nd ref="2442565712" lat="45.6531407" lon="11.0004964"/>
-    <nd ref="2408678866" lat="45.6528535" lon="10.9998671"/>
-    <nd ref="1371989305" lat="45.6527170" lon="10.9995494"/>
-    <nd ref="351123488" lat="45.6524924" lon="10.9991960"/>
-    <nd ref="1653295169" lat="45.6523902" lon="10.9990666"/>
-    <nd ref="351123489" lat="45.6521058" lon="10.9987565"/>
-    <nd ref="2415717126" lat="45.6518820" lon="10.9985628"/>
-    <nd ref="2423840235" lat="45.6516281" lon="10.9983187"/>
-    <nd ref="351123490" lat="45.6514343" lon="10.9979977"/>
-    <nd ref="6173856999" lat="45.6513905" lon="10.9978809"/>
-    <nd ref="1025596481" lat="45.6512929" lon="10.9976205"/>
-    <tag k="surface" v="asphalt"/>
-    <tag k="name" v="Via Castelberto"/>
-    <tag k="highway" v="unclassified"/>
-  </way>
-</old>
-<new>
-  <way id="240139693" version="4" timestamp="2021-07-21T13:30:21Z" changeset="108368624" uid="852319" user="vrmap">
-    <bounds minlat="45.6512929" minlon="10.9976205" maxlat="45.6537230" maxlon="11.0017530"/>
-    <nd ref="351123486" lat="45.6537230" lon="11.0017530"/>
-    <nd ref="2442565714" lat="45.6536360" lon="11.0016410"/>
-    <nd ref="2442565713" lat="45.6535378" lon="11.0014907"/>
-    <nd ref="351123487" lat="45.6534510" lon="11.0012734"/>
-    <nd ref="2442565712" lat="45.6531407" lon="11.0004964"/>
-    <nd ref="2408678866" lat="45.6528535" lon="10.9998671"/>
-    <nd ref="1371989305" lat="45.6527170" lon="10.9995494"/>
-    <nd ref="351123488" lat="45.6524924" lon="10.9991960"/>
-    <nd ref="1653295169" lat="45.6523902" lon="10.9990666"/>
-    <nd ref="351123489" lat="45.6521058" lon="10.9987565"/>
-    <nd ref="2415717126" lat="45.6518820" lon="10.9985628"/>
-    <nd ref="2423840235" lat="45.6516281" lon="10.9983187"/>
-    <nd ref="351123490" lat="45.6514343" lon="10.9979977"/>
-    <nd ref="6173856999" lat="45.6513905" lon="10.9978809"/>
-    <nd ref="1025596481" lat="45.6512929" lon="10.9976205"/>
-    <tag k="highway" v="unclassified"/>
-    <tag k="name" v="Via Castelberto"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-    <tag k="surface" v="asphalt"/>
-  </way>
-</new>
-</action>
-<action type="modify">
-<old>
-  <way id="246904407" version="2" timestamp="2019-05-04T19:06:12Z" changeset="69887419" uid="852319" user="vrmap">
-    <bounds minlat="45.6483093" minlon="10.9996853" maxlat="45.6484679" maxlon="10.9997917"/>
-    <nd ref="2278365921" lat="45.6483093" lon="10.9997917"/>
-    <nd ref="1025596464" lat="45.6484679" lon="10.9996853"/>
-    <tag k="width" v="4"/>
-    <tag k="surface" v="asphalt"/>
-    <tag k="highway" v="unclassified"/>
-    <tag k="name" v="Via degli Alpini"/>
-  </way>
-</old>
-<new>
-  <way id="246904407" version="3" timestamp="2021-07-21T13:30:21Z" changeset="108368624" uid="852319" user="vrmap">
-    <bounds minlat="45.6483093" minlon="10.9996853" maxlat="45.6484679" maxlon="10.9997917"/>
-    <nd ref="2278365921" lat="45.6483093" lon="10.9997917"/>
-    <nd ref="1025596464" lat="45.6484679" lon="10.9996853"/>
-    <tag k="highway" v="unclassified"/>
-    <tag k="name" v="Via degli Alpini"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-    <tag k="surface" v="asphalt"/>
-    <tag k="width" v="4"/>
-  </way>
-</new>
-</action>
-<action type="modify">
-<old>
-  <way id="372626180" version="3" timestamp="2017-11-16T23:09:27Z" changeset="53859630" uid="351361" user="dvdzero">
-    <bounds minlat="45.6244762" minlon="11.0013615" maxlat="45.6294596" maxlon="11.0022747"/>
+  <way id="231768706" version="9" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6294596" minlon="11.0013615" maxlat="45.6309213" maxlon="11.0015543"/>
+    <nd ref="1368443765" lat="45.6309213" lon="11.0015543"/>
+    <nd ref="2408450063" lat="45.6308403" lon="11.0015527"/>
+    <nd ref="1368443764" lat="45.6307544" lon="11.0015511"/>
+    <nd ref="1368443762" lat="45.6305224" lon="11.0015416"/>
+    <nd ref="1368443761" lat="45.6302573" lon="11.0014942"/>
+    <nd ref="7418530649" lat="45.6301353" lon="11.0014642"/>
+    <nd ref="1368443759" lat="45.6300518" lon="11.0014436"/>
+    <nd ref="1368443758" lat="45.6298286" lon="11.0014152"/>
+    <nd ref="1368443750" lat="45.6296209" lon="11.0013962"/>
     <nd ref="1368443747" lat="45.6294596" lon="11.0013615"/>
-    <nd ref="1368443745" lat="45.6291583" lon="11.0013727"/>
-    <nd ref="1368443744" lat="45.6287790" lon="11.0013773"/>
-    <nd ref="1368443743" lat="45.6286619" lon="11.0014405"/>
-    <nd ref="1368443731" lat="45.6279272" lon="11.0019034"/>
-    <nd ref="1368443729" lat="45.6277173" lon="11.0020535"/>
-    <nd ref="1368443725" lat="45.6275322" lon="11.0021285"/>
-    <nd ref="1368443721" lat="45.6272339" lon="11.0021996"/>
-    <nd ref="1368443704" lat="45.6261373" lon="11.0022747"/>
-    <nd ref="1368443697" lat="45.6258114" lon="11.0022668"/>
-    <nd ref="1368443686" lat="45.6249323" lon="11.0021344"/>
-    <nd ref="3761793783" lat="45.6244762" lon="11.0020257"/>
-    <tag k="name" v="Contrada Masselli"/>
     <tag k="highway" v="residential"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="sac_scale_ref" v="T1"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="231790529" version="5" timestamp="2018-07-31T10:46:29Z" changeset="61224555" uid="1928626" user="Gianfranco2014">
+    <bounds minlat="45.6398330" minlon="11.0014657" maxlat="45.6401100" maxlon="11.0021151"/>
+    <nd ref="2401197988" lat="45.6398330" lon="11.0014657"/>
+    <nd ref="2401197989" lat="45.6398664" lon="11.0016998"/>
+    <nd ref="2401197990" lat="45.6398935" lon="11.0016905"/>
+    <nd ref="2401197991" lat="45.6399233" lon="11.0018912"/>
+    <nd ref="2404915527" lat="45.6399400" lon="11.0018862"/>
+    <nd ref="2401197993" lat="45.6400755" lon="11.0018457"/>
+    <nd ref="2401197994" lat="45.6401100" lon="11.0021151"/>
+    <tag k="highway" v="path"/>
   </way>
 </old>
 <new>
+  <way id="231790529" version="6" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6398330" minlon="11.0014657" maxlat="45.6401100" maxlon="11.0021151"/>
+    <nd ref="2401197988" lat="45.6398330" lon="11.0014657"/>
+    <nd ref="2401197989" lat="45.6398664" lon="11.0016998"/>
+    <nd ref="2401197990" lat="45.6398935" lon="11.0016905"/>
+    <nd ref="2401197991" lat="45.6399233" lon="11.0018912"/>
+    <nd ref="2404915527" lat="45.6399400" lon="11.0018862"/>
+    <nd ref="2401197993" lat="45.6400755" lon="11.0018457"/>
+    <nd ref="2401197994" lat="45.6401100" lon="11.0021151"/>
+    <tag k="highway" v="path"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="sac_scale_ref" v="T1"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="231790531" version="1" timestamp="2013-07-30T07:47:29Z" changeset="17149075" uid="713959" user="dvd0_CTRVenetoImport">
+    <bounds minlat="45.6397684" minlon="11.0005618" maxlat="45.6399817" maxlon="11.0006256"/>
+    <nd ref="410702200" lat="45.6397684" lon="11.0006039"/>
+    <nd ref="2401197987" lat="45.6398199" lon="11.0006169"/>
+    <nd ref="2401197992" lat="45.6399354" lon="11.0005618"/>
+    <nd ref="1909228629" lat="45.6399817" lon="11.0006256"/>
+    <tag k="highway" v="path"/>
+  </way>
+</old>
+<new>
+  <way id="231790531" version="2" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6397684" minlon="11.0005618" maxlat="45.6399817" maxlon="11.0006256"/>
+    <nd ref="410702200" lat="45.6397684" lon="11.0006039"/>
+    <nd ref="2401197987" lat="45.6398199" lon="11.0006169"/>
+    <nd ref="2401197992" lat="45.6399354" lon="11.0005618"/>
+    <nd ref="1909228629" lat="45.6399817" lon="11.0006256"/>
+    <tag k="highway" v="path"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="sac_scale_ref" v="T1"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="232125836" version="5" timestamp="2018-08-04T16:49:18Z" changeset="61356562" uid="351361" user="dvdzero">
+    <bounds minlat="45.6380547" minlon="11.0014532" maxlat="45.6390145" maxlon="11.0016155"/>
+    <nd ref="1909228602" lat="45.6380547" lon="11.0014532"/>
+    <nd ref="1868463232" lat="45.6382268" lon="11.0014761"/>
+    <nd ref="1868463233" lat="45.6388194" lon="11.0016155"/>
+    <nd ref="1868463240" lat="45.6390145" lon="11.0015941"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="name" v="Via Sprok"/>
+    <tag k="access" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+  </way>
+</old>
+<new>
+  <way id="232125836" version="6" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6380547" minlon="11.0014532" maxlat="45.6390145" maxlon="11.0016155"/>
+    <nd ref="1909228602" lat="45.6380547" lon="11.0014532"/>
+    <nd ref="1868463232" lat="45.6382268" lon="11.0014761"/>
+    <nd ref="1868463233" lat="45.6388194" lon="11.0016155"/>
+    <nd ref="1868463240" lat="45.6390145" lon="11.0015941"/>
+    <tag k="access" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+    <tag k="name" v="Via Sprok"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="sac_scale_ref" v="T1"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="232544540" version="6" timestamp="2018-08-04T15:50:14Z" changeset="61356562" uid="351361" user="dvdzero">
+    <bounds minlat="45.6393583" minlon="11.0006256" maxlat="45.6399817" maxlon="11.0015073"/>
+    <nd ref="819120704" lat="45.6393861" lon="11.0015073"/>
+    <nd ref="2442565710" lat="45.6393657" lon="11.0014643"/>
+    <nd ref="819120843" lat="45.6393583" lon="11.0014126"/>
+    <nd ref="2442565709" lat="45.6393611" lon="11.0013501"/>
+    <nd ref="978472716" lat="45.6393730" lon="11.0012788"/>
+    <nd ref="2442565711" lat="45.6393979" lon="11.0012323"/>
+    <nd ref="819120834" lat="45.6394794" lon="11.0011093"/>
+    <nd ref="2404915501" lat="45.6396747" lon="11.0008491"/>
+    <nd ref="819120318" lat="45.6397022" lon="11.0008173"/>
+    <nd ref="1909228624" lat="45.6398628" lon="11.0006940"/>
+    <nd ref="1909228629" lat="45.6399817" lon="11.0006256"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="name" v="Via Roma"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+  </way>
+</old>
+<new>
+  <way id="232544540" version="7" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6393583" minlon="11.0006256" maxlat="45.6399817" maxlon="11.0015073"/>
+    <nd ref="819120704" lat="45.6393861" lon="11.0015073"/>
+    <nd ref="2442565710" lat="45.6393657" lon="11.0014643"/>
+    <nd ref="819120843" lat="45.6393583" lon="11.0014126"/>
+    <nd ref="2442565709" lat="45.6393611" lon="11.0013501"/>
+    <nd ref="978472716" lat="45.6393730" lon="11.0012788"/>
+    <nd ref="2442565711" lat="45.6393979" lon="11.0012323"/>
+    <nd ref="819120834" lat="45.6394794" lon="11.0011093"/>
+    <nd ref="2404915501" lat="45.6396747" lon="11.0008491"/>
+    <nd ref="819120318" lat="45.6397022" lon="11.0008173"/>
+    <nd ref="1909228624" lat="45.6398628" lon="11.0006940"/>
+    <nd ref="1909228629" lat="45.6399817" lon="11.0006256"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+    <tag k="name" v="Via Roma"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="sac_scale_ref" v="T1"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="232544545" version="4" timestamp="2020-08-27T14:11:22Z" changeset="90031997" uid="852319" user="vrmap">
+    <bounds minlat="45.6323504" minlon="11.0013184" maxlat="45.6329750" maxlon="11.0015334"/>
+    <nd ref="2401013891" lat="45.6323504" lon="11.0015334"/>
+    <nd ref="410702143" lat="45.6329750" lon="11.0013184"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="ref" v="SP14a di Erbezzo"/>
+    <tag k="highway" v="secondary"/>
+  </way>
+</old>
+<new>
+  <way id="232544545" version="5" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6323504" minlon="11.0013184" maxlat="45.6329750" maxlon="11.0015334"/>
+    <nd ref="2401013891" lat="45.6323504" lon="11.0015334"/>
+    <nd ref="410702143" lat="45.6329750" lon="11.0013184"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="ref" v="SP14a di Erbezzo"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="sac_scale_ref" v="T1"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="234083831" version="4" timestamp="2021-05-23T22:11:47Z" changeset="105186504" uid="351361" user="dvdzero">
+    <bounds minlat="45.6396057" minlon="11.0006039" maxlat="45.6397684" maxlon="11.0006738"/>
+    <nd ref="410702199" lat="45.6396057" lon="11.0006738"/>
+    <nd ref="410702200" lat="45.6397684" lon="11.0006039"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="ref" v="SP14a di Erbezzo"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Via Monti Lessini"/>
+  </way>
+</old>
+<new>
+  <way id="234083831" version="5" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6396057" minlon="11.0006039" maxlat="45.6397684" maxlon="11.0006738"/>
+    <nd ref="410702199" lat="45.6396057" lon="11.0006738"/>
+    <nd ref="410702200" lat="45.6397684" lon="11.0006039"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Via Monti Lessini"/>
+    <tag k="ref" v="SP14a di Erbezzo"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="sac_scale_ref" v="T1"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="234083835" version="3" timestamp="2018-08-04T16:41:58Z" changeset="61356562" uid="351361" user="dvdzero">
+    <bounds minlat="45.6390145" minlon="11.0015073" maxlat="45.6393861" maxlon="11.0015941"/>
+    <nd ref="819120704" lat="45.6393861" lon="11.0015073"/>
+    <nd ref="2301289222" lat="45.6393235" lon="11.0015783"/>
+    <nd ref="2423893243" lat="45.6392934" lon="11.0015798"/>
+    <nd ref="1868463240" lat="45.6390145" lon="11.0015941"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="name" v="Via Sprok"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="lit" v="yes"/>
+  </way>
+</old>
+<new>
+  <way id="234083835" version="4" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6390145" minlon="11.0015073" maxlat="45.6393861" maxlon="11.0015941"/>
+    <nd ref="819120704" lat="45.6393861" lon="11.0015073"/>
+    <nd ref="2301289222" lat="45.6393235" lon="11.0015783"/>
+    <nd ref="2423893243" lat="45.6392934" lon="11.0015798"/>
+    <nd ref="1868463240" lat="45.6390145" lon="11.0015941"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Via Sprok"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="sac_scale_ref" v="T1"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="236191842" version="8" timestamp="2021-07-11T15:59:08Z" changeset="107787360" uid="351361" user="dvdzero">
+    <bounds minlat="45.6393861" minlon="11.0014484" maxlat="45.6398330" maxlon="11.0015277"/>
+    <nd ref="2401197988" lat="45.6398330" lon="11.0014657"/>
+    <nd ref="2301289223" lat="45.6398141" lon="11.0014576"/>
+    <nd ref="819120388" lat="45.6397535" lon="11.0014484"/>
+    <nd ref="2401013952" lat="45.6396759" lon="11.0014678"/>
+    <nd ref="2401013949" lat="45.6396000" lon="11.0014877"/>
+    <nd ref="2401013945" lat="45.6394432" lon="11.0015277"/>
+    <nd ref="819120704" lat="45.6393861" lon="11.0015073"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+    <tag k="name" v="Via Roma"/>
+  </way>
+</old>
+<new>
+  <way id="236191842" version="9" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6393861" minlon="11.0014484" maxlat="45.6398330" maxlon="11.0015277"/>
+    <nd ref="2401197988" lat="45.6398330" lon="11.0014657"/>
+    <nd ref="2301289223" lat="45.6398141" lon="11.0014576"/>
+    <nd ref="819120388" lat="45.6397535" lon="11.0014484"/>
+    <nd ref="2401013952" lat="45.6396759" lon="11.0014678"/>
+    <nd ref="2401013949" lat="45.6396000" lon="11.0014877"/>
+    <nd ref="2401013945" lat="45.6394432" lon="11.0015277"/>
+    <nd ref="819120704" lat="45.6393861" lon="11.0015073"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+    <tag k="name" v="Via Roma"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="sac_scale_ref" v="T1"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="242954715" version="3" timestamp="2018-07-31T10:46:31Z" changeset="61224555" uid="1928626" user="Gianfranco2014">
+    <bounds minlat="45.6348879" minlon="11.0017958" maxlat="45.6354508" maxlon="11.0018475"/>
+    <nd ref="1909228584" lat="45.6348879" lon="11.0017958"/>
+    <nd ref="1909228585" lat="45.6353754" lon="11.0018351"/>
+    <nd ref="410702174" lat="45.6354508" lon="11.0018475"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="access" v="destination"/>
+  </way>
+</old>
+<new>
+  <way id="242954715" version="4" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6348879" minlon="11.0017958" maxlat="45.6354508" maxlon="11.0018475"/>
+    <nd ref="1909228584" lat="45.6348879" lon="11.0017958"/>
+    <nd ref="1909228585" lat="45.6353754" lon="11.0018351"/>
+    <nd ref="410702174" lat="45.6354508" lon="11.0018475"/>
+    <tag k="access" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="sac_scale_ref" v="T1"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="275951467" version="4" timestamp="2018-08-04T17:32:54Z" changeset="61356562" uid="351361" user="dvdzero">
+    <bounds minlat="45.6389912" minlon="10.9981415" maxlat="45.6391597" maxlon="10.9982016"/>
+    <nd ref="1025603321" lat="45.6391597" lon="10.9982016"/>
+    <nd ref="2423893236" lat="45.6390442" lon="10.9981415"/>
+    <nd ref="1025603298" lat="45.6389912" lon="10.9981466"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="name" v="Via Saibe"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+  </way>
+</old>
+<new>
+  <way id="275951467" version="5" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6389912" minlon="10.9981415" maxlat="45.6391597" maxlon="10.9982016"/>
+    <nd ref="1025603321" lat="45.6391597" lon="10.9982016"/>
+    <nd ref="2423893236" lat="45.6390442" lon="10.9981415"/>
+    <nd ref="1025603298" lat="45.6389912" lon="10.9981466"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+    <tag k="name" v="Via Saibe"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="sac_scale_ref" v="T1"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="294817618" version="7" timestamp="2021-07-11T11:09:10Z" changeset="107777452" uid="676877" user="tytoalba">
+    <bounds minlat="45.6774418" minlon="11.0507834" maxlat="45.6795083" maxlon="11.0514432"/>
+    <nd ref="434317915" lat="45.6774418" lon="11.0508334"/>
+    <nd ref="434321435" lat="45.6775353" lon="11.0509809"/>
+    <nd ref="434321436" lat="45.6776372" lon="11.0513585"/>
+    <nd ref="1319481967" lat="45.6776793" lon="11.0514155"/>
+    <nd ref="434321437" lat="45.6777428" lon="11.0514432"/>
+    <nd ref="434321438" lat="45.6778211" lon="11.0514278"/>
+    <nd ref="434321439" lat="45.6779611" lon="11.0513156"/>
+    <nd ref="434321440" lat="45.6782729" lon="11.0511439"/>
+    <nd ref="434321441" lat="45.6788306" lon="11.0509036"/>
+    <nd ref="434321442" lat="45.6791185" lon="11.0507834"/>
+    <nd ref="434321443" lat="45.6793463" lon="11.0508006"/>
+    <nd ref="434321444" lat="45.6795083" lon="11.0509294"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="ref" v="SP14"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+</old>
+<new>
+  <way id="294817618" version="8" timestamp="2021-07-22T10:37:14Z" changeset="108421269" uid="351361" user="dvdzero">
+    <bounds minlat="45.6774418" minlon="11.0507834" maxlat="45.6795083" maxlon="11.0514432"/>
+    <nd ref="434317915" lat="45.6774418" lon="11.0508334"/>
+    <nd ref="434321435" lat="45.6775353" lon="11.0509809"/>
+    <nd ref="434321436" lat="45.6776372" lon="11.0513585"/>
+    <nd ref="1319481967" lat="45.6776793" lon="11.0514155"/>
+    <nd ref="434321437" lat="45.6777428" lon="11.0514432"/>
+    <nd ref="434321438" lat="45.6778211" lon="11.0514278"/>
+    <nd ref="434321439" lat="45.6779611" lon="11.0513156"/>
+    <nd ref="434321440" lat="45.6782729" lon="11.0511439"/>
+    <nd ref="434321441" lat="45.6788306" lon="11.0509036"/>
+    <nd ref="434321442" lat="45.6791185" lon="11.0507834"/>
+    <nd ref="434321443" lat="45.6793463" lon="11.0508006"/>
+    <nd ref="434321444" lat="45.6795083" lon="11.0509294"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="ref" v="SP14"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="325082607" version="8" timestamp="2021-07-18T15:37:20Z" changeset="108197389" uid="9558563" user="Urbis13">
+    <bounds minlat="45.7021839" minlon="10.7915686" maxlat="45.7059550" maxlon="10.7972935"/>
+    <nd ref="262175421" lat="45.7056321" lon="10.7915686"/>
+    <nd ref="262175422" lat="45.7055493" lon="10.7917140"/>
+    <nd ref="262175424" lat="45.7055794" lon="10.7919755"/>
+    <nd ref="262175425" lat="45.7055722" lon="10.7921635"/>
+    <nd ref="262175426" lat="45.7054837" lon="10.7923255"/>
+    <nd ref="262175428" lat="45.7053279" lon="10.7925009"/>
+    <nd ref="262175429" lat="45.7051833" lon="10.7926549"/>
+    <nd ref="262175430" lat="45.7050332" lon="10.7928550"/>
+    <nd ref="1567528659" lat="45.7049137" lon="10.7930141"/>
+    <nd ref="262175433" lat="45.7048667" lon="10.7931109"/>
+    <nd ref="2397354068" lat="45.7048588" lon="10.7931938"/>
+    <nd ref="262175435" lat="45.7049094" lon="10.7932257"/>
+    <nd ref="2397354130" lat="45.7049546" lon="10.7931876"/>
+    <nd ref="1567528664" lat="45.7050289" lon="10.7931431"/>
+    <nd ref="2397354255" lat="45.7051465" lon="10.7931447"/>
+    <nd ref="262175438" lat="45.7052518" lon="10.7932080"/>
+    <nd ref="262175443" lat="45.7053238" lon="10.7932929"/>
+    <nd ref="262175444" lat="45.7055101" lon="10.7935387"/>
+    <nd ref="262175446" lat="45.7056084" lon="10.7937122"/>
+    <nd ref="262175447" lat="45.7057557" lon="10.7939798"/>
+    <nd ref="262175449" lat="45.7058938" lon="10.7942311"/>
+    <nd ref="2397354017" lat="45.7059540" lon="10.7942972"/>
+    <nd ref="3495170972" lat="45.7059550" lon="10.7943365"/>
+    <nd ref="262175451" lat="45.7059432" lon="10.7943740"/>
+    <nd ref="2397354155" lat="45.7058822" lon="10.7943441"/>
+    <nd ref="2397354126" lat="45.7058031" lon="10.7943256"/>
+    <nd ref="262175454" lat="45.7056809" lon="10.7942907"/>
+    <nd ref="262175456" lat="45.7054460" lon="10.7942025"/>
+    <nd ref="3495170969" lat="45.7053621" lon="10.7941985"/>
+    <nd ref="262175457" lat="45.7052931" lon="10.7942611"/>
+    <nd ref="262175459" lat="45.7052373" lon="10.7943175"/>
+    <nd ref="262175462" lat="45.7051768" lon="10.7944357"/>
+    <nd ref="262175464" lat="45.7051151" lon="10.7946181"/>
+    <nd ref="262175467" lat="45.7051166" lon="10.7947676"/>
+    <nd ref="262175478" lat="45.7051479" lon="10.7951096"/>
+    <nd ref="3495170968" lat="45.7051724" lon="10.7952349"/>
+    <nd ref="262175479" lat="45.7051660" lon="10.7953626"/>
+    <nd ref="262175480" lat="45.7049664" lon="10.7954903"/>
+    <nd ref="262175481" lat="45.7046717" lon="10.7956630"/>
+    <nd ref="262175483" lat="45.7042252" lon="10.7957161"/>
+    <nd ref="2397354223" lat="45.7041287" lon="10.7957376"/>
+    <nd ref="262175485" lat="45.7040819" lon="10.7958384"/>
+    <nd ref="262175486" lat="45.7041422" lon="10.7959870"/>
+    <nd ref="262175490" lat="45.7045929" lon="10.7962600"/>
+    <nd ref="262175492" lat="45.7047685" lon="10.7963989"/>
+    <nd ref="262175493" lat="45.7050206" lon="10.7966031"/>
+    <nd ref="2397354231" lat="45.7050710" lon="10.7966936"/>
+    <nd ref="262175494" lat="45.7050292" lon="10.7968628"/>
+    <nd ref="262175495" lat="45.7048935" lon="10.7967724"/>
+    <nd ref="498010524" lat="45.7047249" lon="10.7966868"/>
+    <nd ref="262175496" lat="45.7045424" lon="10.7965835"/>
+    <nd ref="262175497" lat="45.7041677" lon="10.7965640"/>
+    <nd ref="2397354159" lat="45.7038653" lon="10.7966117"/>
+    <nd ref="262175498" lat="45.7037247" lon="10.7966676"/>
+    <nd ref="2397354184" lat="45.7035431" lon="10.7967441"/>
+    <nd ref="262175500" lat="45.7033225" lon="10.7968738"/>
+    <nd ref="2397354179" lat="45.7031560" lon="10.7970235"/>
+    <nd ref="262175501" lat="45.7030292" lon="10.7971218"/>
+    <nd ref="2397354031" lat="45.7029082" lon="10.7971876"/>
+    <nd ref="262175502" lat="45.7028119" lon="10.7972251"/>
+    <nd ref="2397354256" lat="45.7027084" lon="10.7972721"/>
+    <nd ref="2397354025" lat="45.7026321" lon="10.7972935"/>
+    <nd ref="262175503" lat="45.7025516" lon="10.7972788"/>
+    <nd ref="2397354193" lat="45.7024607" lon="10.7972599"/>
+    <nd ref="268252919" lat="45.7023773" lon="10.7972180"/>
+    <nd ref="2397354157" lat="45.7023109" lon="10.7971112"/>
+    <nd ref="268252920" lat="45.7022466" lon="10.7969024"/>
+    <nd ref="2397354234" lat="45.7022105" lon="10.7966782"/>
+    <nd ref="498010527" lat="45.7021839" lon="10.7965202"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="motorcar:condtional" v="no @ (automatic_trasmission)"/>
+    <tag k="description" v="Solo in discesa questa parte della strada è chiusa per automobili con cambio automatico, scooter, autocarri e camper. Questi veicoli devono scendere dall'altro versante"/>
+    <tag k="description:en" v="This part of the road is closed downhill for car with automatic trasmission, motorscooters, trucks and motorhomes"/>
+    <tag k="hgv:backward" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="incline" v="up"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="moped:backward:conditional" v="no @ (automatic_trasmission)"/>
+    <tag k="motorcycle:backward:conditional" v="no @ (automatic_trasmission)"/>
+    <tag k="motorhome:backward" v="no"/>
+    <tag k="name" v="Via Prada Alta"/>
+    <tag k="source:maxspeed" v="sign"/>
+  </way>
+</old>
+<new>
+  <way id="325082607" version="9" timestamp="2021-07-22T13:58:55Z" changeset="108433153" uid="131670" user="Ana Luisa">
+    <bounds minlat="45.7021839" minlon="10.7915686" maxlat="45.7059550" maxlon="10.7972935"/>
+    <nd ref="262175421" lat="45.7056321" lon="10.7915686"/>
+    <nd ref="262175422" lat="45.7055493" lon="10.7917140"/>
+    <nd ref="262175424" lat="45.7055794" lon="10.7919755"/>
+    <nd ref="262175425" lat="45.7055722" lon="10.7921635"/>
+    <nd ref="262175426" lat="45.7054837" lon="10.7923255"/>
+    <nd ref="262175428" lat="45.7053279" lon="10.7925009"/>
+    <nd ref="262175429" lat="45.7051833" lon="10.7926549"/>
+    <nd ref="262175430" lat="45.7050332" lon="10.7928550"/>
+    <nd ref="1567528659" lat="45.7049137" lon="10.7930141"/>
+    <nd ref="262175433" lat="45.7048667" lon="10.7931109"/>
+    <nd ref="2397354068" lat="45.7048588" lon="10.7931938"/>
+    <nd ref="262175435" lat="45.7049094" lon="10.7932257"/>
+    <nd ref="2397354130" lat="45.7049546" lon="10.7931876"/>
+    <nd ref="1567528664" lat="45.7050289" lon="10.7931431"/>
+    <nd ref="2397354255" lat="45.7051465" lon="10.7931447"/>
+    <nd ref="262175438" lat="45.7052518" lon="10.7932080"/>
+    <nd ref="262175443" lat="45.7053238" lon="10.7932929"/>
+    <nd ref="262175444" lat="45.7055101" lon="10.7935387"/>
+    <nd ref="262175446" lat="45.7056084" lon="10.7937122"/>
+    <nd ref="262175447" lat="45.7057557" lon="10.7939798"/>
+    <nd ref="262175449" lat="45.7058938" lon="10.7942311"/>
+    <nd ref="2397354017" lat="45.7059540" lon="10.7942972"/>
+    <nd ref="3495170972" lat="45.7059550" lon="10.7943365"/>
+    <nd ref="262175451" lat="45.7059432" lon="10.7943740"/>
+    <nd ref="2397354155" lat="45.7058822" lon="10.7943441"/>
+    <nd ref="2397354126" lat="45.7058031" lon="10.7943256"/>
+    <nd ref="262175454" lat="45.7056809" lon="10.7942907"/>
+    <nd ref="262175456" lat="45.7054460" lon="10.7942025"/>
+    <nd ref="3495170969" lat="45.7053621" lon="10.7941985"/>
+    <nd ref="262175457" lat="45.7052931" lon="10.7942611"/>
+    <nd ref="262175459" lat="45.7052373" lon="10.7943175"/>
+    <nd ref="262175462" lat="45.7051768" lon="10.7944357"/>
+    <nd ref="262175464" lat="45.7051151" lon="10.7946181"/>
+    <nd ref="262175467" lat="45.7051166" lon="10.7947676"/>
+    <nd ref="262175478" lat="45.7051479" lon="10.7951096"/>
+    <nd ref="3495170968" lat="45.7051724" lon="10.7952349"/>
+    <nd ref="262175479" lat="45.7051660" lon="10.7953626"/>
+    <nd ref="262175480" lat="45.7049664" lon="10.7954903"/>
+    <nd ref="262175481" lat="45.7046717" lon="10.7956630"/>
+    <nd ref="262175483" lat="45.7042252" lon="10.7957161"/>
+    <nd ref="2397354223" lat="45.7041287" lon="10.7957376"/>
+    <nd ref="262175485" lat="45.7040819" lon="10.7958384"/>
+    <nd ref="262175486" lat="45.7041422" lon="10.7959870"/>
+    <nd ref="262175490" lat="45.7045929" lon="10.7962600"/>
+    <nd ref="262175492" lat="45.7047685" lon="10.7963989"/>
+    <nd ref="262175493" lat="45.7050206" lon="10.7966031"/>
+    <nd ref="2397354231" lat="45.7050710" lon="10.7966936"/>
+    <nd ref="262175494" lat="45.7050292" lon="10.7968628"/>
+    <nd ref="262175495" lat="45.7048935" lon="10.7967724"/>
+    <nd ref="498010524" lat="45.7047249" lon="10.7966868"/>
+    <nd ref="262175496" lat="45.7045424" lon="10.7965835"/>
+    <nd ref="262175497" lat="45.7041677" lon="10.7965640"/>
+    <nd ref="2397354159" lat="45.7038653" lon="10.7966117"/>
+    <nd ref="262175498" lat="45.7037247" lon="10.7966676"/>
+    <nd ref="2397354184" lat="45.7035431" lon="10.7967441"/>
+    <nd ref="262175500" lat="45.7033225" lon="10.7968738"/>
+    <nd ref="2397354179" lat="45.7031560" lon="10.7970235"/>
+    <nd ref="262175501" lat="45.7030292" lon="10.7971218"/>
+    <nd ref="2397354031" lat="45.7029082" lon="10.7971876"/>
+    <nd ref="262175502" lat="45.7028119" lon="10.7972251"/>
+    <nd ref="2397354256" lat="45.7027084" lon="10.7972721"/>
+    <nd ref="2397354025" lat="45.7026321" lon="10.7972935"/>
+    <nd ref="262175503" lat="45.7025516" lon="10.7972788"/>
+    <nd ref="2397354193" lat="45.7024607" lon="10.7972599"/>
+    <nd ref="268252919" lat="45.7023773" lon="10.7972180"/>
+    <nd ref="2397354157" lat="45.7023109" lon="10.7971112"/>
+    <nd ref="268252920" lat="45.7022466" lon="10.7969024"/>
+    <nd ref="2397354234" lat="45.7022105" lon="10.7966782"/>
+    <nd ref="498010527" lat="45.7021839" lon="10.7965202"/>
+    <tag k="description" v="Solo in discesa questa parte della strada è chiusa per automobili con cambio automatico, scooter, autocarri e camper. Questi veicoli devono scendere dall'altro versante"/>
+    <tag k="description:en" v="This part of the road is closed downhill for car with automatic trasmission, motorscooters, trucks and motorhomes"/>
+    <tag k="hgv:backward" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="incline" v="up"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="moped:backward:conditional" v="no @ (automatic_trasmission)"/>
+    <tag k="motorcar:conditional" v="no @ (automatic_trasmission)"/>
+    <tag k="motorcycle:backward:conditional" v="no @ (automatic_trasmission)"/>
+    <tag k="motorhome:backward" v="no"/>
+    <tag k="name" v="Via Prada Alta"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
   <way id="372626180" version="4" timestamp="2021-07-21T14:44:33Z" changeset="108371934" uid="351361" user="dvdzero">
     <bounds minlat="45.6244762" minlon="11.0013615" maxlat="45.6294596" maxlon="11.0022747"/>
     <nd ref="1368443747" lat="45.6294596" lon="11.0013615"/>
@@ -601,260 +867,342 @@
     <nd ref="1368443697" lat="45.6258114" lon="11.0022668"/>
     <nd ref="1368443686" lat="45.6249323" lon="11.0021344"/>
     <nd ref="3761793783" lat="45.6244762" lon="11.0020257"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="name" v="Contrada Masselli"/>
+    <tag k="highway" v="residential"/>
+  </way>
+</old>
+<new>
+  <way id="372626180" version="5" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6244762" minlon="11.0013615" maxlat="45.6294596" maxlon="11.0022747"/>
+    <nd ref="1368443747" lat="45.6294596" lon="11.0013615"/>
+    <nd ref="1368443745" lat="45.6291583" lon="11.0013727"/>
+    <nd ref="1368443744" lat="45.6287790" lon="11.0013773"/>
+    <nd ref="1368443743" lat="45.6286619" lon="11.0014405"/>
+    <nd ref="1368443731" lat="45.6279272" lon="11.0019034"/>
+    <nd ref="1368443729" lat="45.6277173" lon="11.0020535"/>
+    <nd ref="1368443725" lat="45.6275322" lon="11.0021285"/>
+    <nd ref="1368443721" lat="45.6272339" lon="11.0021996"/>
+    <nd ref="1368443704" lat="45.6261373" lon="11.0022747"/>
+    <nd ref="1368443697" lat="45.6258114" lon="11.0022668"/>
+    <nd ref="1368443686" lat="45.6249323" lon="11.0021344"/>
+    <nd ref="3761793783" lat="45.6244762" lon="11.0020257"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Contrada Masselli"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="sac_scale_ref" v="T1"/>
     <tag k="surface" v="asphalt"/>
   </way>
 </new>
 </action>
 <action type="modify">
 <old>
-  <way id="517167072" version="2" timestamp="2020-08-28T05:58:44Z" changeset="90059398" uid="852319" user="vrmap">
-    <bounds minlat="45.6635428" minlon="11.0083289" maxlat="45.6636555" maxlon="11.0084526"/>
-    <nd ref="1024645591" lat="45.6635428" lon="11.0083289"/>
-    <nd ref="1024645527" lat="45.6636330" lon="11.0083773"/>
-    <nd ref="7852109952" lat="45.6636543" lon="11.0084094"/>
-    <nd ref="1024645459" lat="45.6636555" lon="11.0084526"/>
-    <tag k="tracktype" v="grade2"/>
-    <tag k="surface" v="gravel"/>
-    <tag k="bicycle" v="yes"/>
-    <tag k="foot" v="yes"/>
-    <tag k="highway" v="track"/>
-    <tag k="motorcar" v="yes"/>
-    <tag k="motorcycle" v="yes"/>
+  <way id="372626208" version="4" timestamp="2019-04-27T05:43:50Z" changeset="69630092" uid="852319" user="vrmap">
+    <bounds minlat="45.6233574" minlon="11.0015660" maxlat="45.6244762" maxlon="11.0020257"/>
+    <nd ref="3761793783" lat="45.6244762" lon="11.0020257"/>
+    <nd ref="1368443684" lat="45.6244351" lon="11.0020159"/>
+    <nd ref="1368443665" lat="45.6239966" lon="11.0018975"/>
+    <nd ref="1368443660" lat="45.6235339" lon="11.0016852"/>
+    <nd ref="1772845536" lat="45.6233574" lon="11.0015660"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="highway" v="residential"/>
   </way>
 </old>
 <new>
-  <way id="517167072" version="3" timestamp="2021-07-21T13:30:21Z" changeset="108368624" uid="852319" user="vrmap">
-    <bounds minlat="45.6635428" minlon="11.0083289" maxlat="45.6636555" maxlon="11.0084526"/>
-    <nd ref="1024645591" lat="45.6635428" lon="11.0083289"/>
-    <nd ref="1024645527" lat="45.6636330" lon="11.0083773"/>
-    <nd ref="7852109952" lat="45.6636543" lon="11.0084094"/>
-    <nd ref="1024645459" lat="45.6636555" lon="11.0084526"/>
-    <tag k="bicycle" v="yes"/>
-    <tag k="foot" v="yes"/>
-    <tag k="highway" v="track"/>
-    <tag k="motorcar" v="yes"/>
-    <tag k="motorcycle" v="yes"/>
+  <way id="372626208" version="5" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6233574" minlon="11.0015660" maxlat="45.6244762" maxlon="11.0020257"/>
+    <nd ref="3761793783" lat="45.6244762" lon="11.0020257"/>
+    <nd ref="1368443684" lat="45.6244351" lon="11.0020159"/>
+    <nd ref="1368443665" lat="45.6239966" lon="11.0018975"/>
+    <nd ref="1368443660" lat="45.6235339" lon="11.0016852"/>
+    <nd ref="1772845536" lat="45.6233574" lon="11.0015660"/>
+    <tag k="highway" v="residential"/>
     <tag k="sac_scale" v="hiking"/>
     <tag k="sac_scale_ref" v="T1"/>
-    <tag k="surface" v="gravel"/>
-    <tag k="tracktype" v="grade2"/>
+    <tag k="surface" v="unpaved"/>
   </way>
 </new>
 </action>
 <action type="modify">
 <old>
-  <way id="517167073" version="2" timestamp="2020-08-28T05:58:44Z" changeset="90059398" uid="852319" user="vrmap">
-    <bounds minlat="45.6616933" minlon="11.0092427" maxlat="45.6619727" maxlon="11.0094880"/>
-    <nd ref="1024645464" lat="45.6619727" lon="11.0092427"/>
-    <nd ref="2538441703" lat="45.6619150" lon="11.0092680"/>
-    <nd ref="1612148255" lat="45.6618646" lon="11.0093323"/>
-    <nd ref="1612148254" lat="45.6618295" lon="11.0093751"/>
-    <nd ref="1612148251" lat="45.6618088" lon="11.0094341"/>
-    <nd ref="1612148249" lat="45.6617393" lon="11.0094880"/>
-    <nd ref="1612148240" lat="45.6616933" lon="11.0094700"/>
+  <way id="399075499" version="3" timestamp="2018-09-04T10:04:09Z" changeset="62272896" uid="852319" user="vrmap">
+    <bounds minlat="45.6158122" minlon="11.0073741" maxlat="45.6164935" maxlon="11.0087203"/>
+    <nd ref="4018132428" lat="45.6158122" lon="11.0086575"/>
+    <nd ref="4018132429" lat="45.6158595" lon="11.0087203"/>
+    <nd ref="4018132430" lat="45.6159035" lon="11.0087203"/>
+    <nd ref="4018132432" lat="45.6159356" lon="11.0086817"/>
+    <nd ref="4018132433" lat="45.6159593" lon="11.0086019"/>
+    <nd ref="4018132434" lat="45.6159779" lon="11.0084859"/>
+    <nd ref="4018132435" lat="45.6160049" lon="11.0083723"/>
+    <nd ref="4018132436" lat="45.6160506" lon="11.0082901"/>
+    <nd ref="4018132438" lat="45.6161435" lon="11.0081523"/>
+    <nd ref="4018132439" lat="45.6162162" lon="11.0080702"/>
+    <nd ref="4018132442" lat="45.6162602" lon="11.0079783"/>
+    <nd ref="4018132443" lat="45.6162754" lon="11.0079034"/>
+    <nd ref="4018132444" lat="45.6162839" lon="11.0078019"/>
+    <nd ref="4018132445" lat="45.6163261" lon="11.0076158"/>
+    <nd ref="4018132448" lat="45.6163735" lon="11.0075142"/>
+    <nd ref="4018132450" lat="45.6164360" lon="11.0074224"/>
+    <nd ref="4018132454" lat="45.6164935" lon="11.0073741"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+</old>
+<new>
+  <way id="399075499" version="4" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6158122" minlon="11.0073741" maxlat="45.6164935" maxlon="11.0087203"/>
+    <nd ref="4018132428" lat="45.6158122" lon="11.0086575"/>
+    <nd ref="4018132429" lat="45.6158595" lon="11.0087203"/>
+    <nd ref="4018132430" lat="45.6159035" lon="11.0087203"/>
+    <nd ref="4018132432" lat="45.6159356" lon="11.0086817"/>
+    <nd ref="4018132433" lat="45.6159593" lon="11.0086019"/>
+    <nd ref="4018132434" lat="45.6159779" lon="11.0084859"/>
+    <nd ref="4018132435" lat="45.6160049" lon="11.0083723"/>
+    <nd ref="4018132436" lat="45.6160506" lon="11.0082901"/>
+    <nd ref="4018132438" lat="45.6161435" lon="11.0081523"/>
+    <nd ref="4018132439" lat="45.6162162" lon="11.0080702"/>
+    <nd ref="4018132442" lat="45.6162602" lon="11.0079783"/>
+    <nd ref="4018132443" lat="45.6162754" lon="11.0079034"/>
+    <nd ref="4018132444" lat="45.6162839" lon="11.0078019"/>
+    <nd ref="4018132445" lat="45.6163261" lon="11.0076158"/>
+    <nd ref="4018132448" lat="45.6163735" lon="11.0075142"/>
+    <nd ref="4018132450" lat="45.6164360" lon="11.0074224"/>
+    <nd ref="4018132454" lat="45.6164935" lon="11.0073741"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="sac_scale_ref" v="T1"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="611311289" version="2" timestamp="2019-04-19T21:38:32Z" changeset="69389982" uid="8143621" user="GabScat">
+    <bounds minlat="45.6146115" minlon="11.0081143" maxlat="45.6154316" maxlon="11.0113199"/>
+    <nd ref="434432654" lat="45.6146115" lon="11.0113199"/>
+    <nd ref="5788050513" lat="45.6147128" lon="11.0109079"/>
+    <nd ref="5788050512" lat="45.6147128" lon="11.0107791"/>
+    <nd ref="5788050511" lat="45.6147916" lon="11.0106236"/>
+    <nd ref="5788050510" lat="45.6148104" lon="11.0105163"/>
+    <nd ref="5788050509" lat="45.6147916" lon="11.0104304"/>
+    <nd ref="5788050508" lat="45.6147541" lon="11.0103071"/>
+    <nd ref="5788050507" lat="45.6147954" lon="11.0101622"/>
+    <nd ref="5788050506" lat="45.6147991" lon="11.0098135"/>
+    <nd ref="5788050505" lat="45.6148329" lon="11.0097063"/>
+    <nd ref="5788050504" lat="45.6148779" lon="11.0096955"/>
+    <nd ref="5788050503" lat="45.6148817" lon="11.0096258"/>
+    <nd ref="5788050502" lat="45.6148554" lon="11.0095346"/>
+    <nd ref="5788050501" lat="45.6148817" lon="11.0094327"/>
+    <nd ref="5788050500" lat="45.6149305" lon="11.0093737"/>
+    <nd ref="5788050499" lat="45.6152644" lon="11.0092878"/>
+    <nd ref="5788050498" lat="45.6153057" lon="11.0092395"/>
+    <nd ref="5788050497" lat="45.6153057" lon="11.0091644"/>
+    <nd ref="5788050496" lat="45.6151293" lon="11.0089606"/>
+    <nd ref="5788050495" lat="45.6151744" lon="11.0089284"/>
+    <nd ref="5788050494" lat="45.6152006" lon="11.0088748"/>
+    <nd ref="5788050493" lat="45.6151894" lon="11.0087997"/>
+    <nd ref="5788050492" lat="45.6150731" lon="11.0087138"/>
+    <nd ref="5788050491" lat="45.6150843" lon="11.0084134"/>
+    <nd ref="5788050490" lat="45.6152494" lon="11.0082793"/>
+    <nd ref="4018132413" lat="45.6154316" lon="11.0081143"/>
+    <tag k="surface" v="ground"/>
+    <tag k="highway" v="path"/>
+  </way>
+</old>
+<new>
+  <way id="611311289" version="3" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6146115" minlon="11.0081143" maxlat="45.6154316" maxlon="11.0113199"/>
+    <nd ref="434432654" lat="45.6146115" lon="11.0113199"/>
+    <nd ref="5788050513" lat="45.6147128" lon="11.0109079"/>
+    <nd ref="5788050512" lat="45.6147128" lon="11.0107791"/>
+    <nd ref="5788050511" lat="45.6147916" lon="11.0106236"/>
+    <nd ref="5788050510" lat="45.6148104" lon="11.0105163"/>
+    <nd ref="5788050509" lat="45.6147916" lon="11.0104304"/>
+    <nd ref="5788050508" lat="45.6147541" lon="11.0103071"/>
+    <nd ref="5788050507" lat="45.6147954" lon="11.0101622"/>
+    <nd ref="5788050506" lat="45.6147991" lon="11.0098135"/>
+    <nd ref="5788050505" lat="45.6148329" lon="11.0097063"/>
+    <nd ref="5788050504" lat="45.6148779" lon="11.0096955"/>
+    <nd ref="5788050503" lat="45.6148817" lon="11.0096258"/>
+    <nd ref="5788050502" lat="45.6148554" lon="11.0095346"/>
+    <nd ref="5788050501" lat="45.6148817" lon="11.0094327"/>
+    <nd ref="5788050500" lat="45.6149305" lon="11.0093737"/>
+    <nd ref="5788050499" lat="45.6152644" lon="11.0092878"/>
+    <nd ref="5788050498" lat="45.6153057" lon="11.0092395"/>
+    <nd ref="5788050497" lat="45.6153057" lon="11.0091644"/>
+    <nd ref="5788050496" lat="45.6151293" lon="11.0089606"/>
+    <nd ref="5788050495" lat="45.6151744" lon="11.0089284"/>
+    <nd ref="5788050494" lat="45.6152006" lon="11.0088748"/>
+    <nd ref="5788050493" lat="45.6151894" lon="11.0087997"/>
+    <nd ref="5788050492" lat="45.6150731" lon="11.0087138"/>
+    <nd ref="5788050491" lat="45.6150843" lon="11.0084134"/>
+    <nd ref="5788050490" lat="45.6152494" lon="11.0082793"/>
+    <nd ref="4018132413" lat="45.6154316" lon="11.0081143"/>
+    <tag k="highway" v="path"/>
     <tag k="sac_scale" v="mountain_hiking"/>
     <tag k="sac_scale_ref" v="T2"/>
-    <tag k="bicycle" v="yes"/>
-    <tag k="foot" v="yes"/>
-    <tag k="highway" v="path"/>
-    <tag k="surface" v="ground"/>
-  </way>
-</old>
-<new>
-  <way id="517167073" version="3" timestamp="2021-07-21T13:30:21Z" changeset="108368624" uid="852319" user="vrmap">
-    <bounds minlat="45.6616933" minlon="11.0092427" maxlat="45.6619727" maxlon="11.0094880"/>
-    <nd ref="1024645464" lat="45.6619727" lon="11.0092427"/>
-    <nd ref="2538441703" lat="45.6619150" lon="11.0092680"/>
-    <nd ref="1612148255" lat="45.6618646" lon="11.0093323"/>
-    <nd ref="1612148254" lat="45.6618295" lon="11.0093751"/>
-    <nd ref="1612148251" lat="45.6618088" lon="11.0094341"/>
-    <nd ref="1612148249" lat="45.6617393" lon="11.0094880"/>
-    <nd ref="1612148240" lat="45.6616933" lon="11.0094700"/>
-    <tag k="bicycle" v="yes"/>
-    <tag k="foot" v="yes"/>
-    <tag k="highway" v="path"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
     <tag k="surface" v="ground"/>
   </way>
 </new>
 </action>
 <action type="modify">
 <old>
-  <way id="517172680" version="3" timestamp="2020-08-28T05:58:44Z" changeset="90059398" uid="852319" user="vrmap">
-    <bounds minlat="45.6633888" minlon="11.0083074" maxlat="45.6635428" maxlon="11.0083289"/>
-    <nd ref="1024645540" lat="45.6633888" lon="11.0083074"/>
-    <nd ref="1024645591" lat="45.6635428" lon="11.0083289"/>
-    <tag k="surface" v="gravel"/>
-    <tag k="motorcycle" v="yes"/>
-    <tag k="bicycle" v="yes"/>
-    <tag k="foot" v="yes"/>
-    <tag k="highway" v="service"/>
-    <tag k="motorcar" v="yes"/>
+  <way id="611311898" version="1" timestamp="2018-07-26T21:10:56Z" changeset="61101119" uid="1928626" user="Gianfranco2014">
+    <bounds minlat="45.6154316" minlon="11.0081143" maxlat="45.6158122" maxlon="11.0086575"/>
+    <nd ref="4018132413" lat="45.6154316" lon="11.0081143"/>
+    <nd ref="4018132414" lat="45.6156356" lon="11.0081353"/>
+    <nd ref="4018132421" lat="45.6157041" lon="11.0081924"/>
+    <nd ref="4018132422" lat="45.6157405" lon="11.0083133"/>
+    <nd ref="4018132424" lat="45.6157243" lon="11.0084206"/>
+    <nd ref="4018132426" lat="45.6157513" lon="11.0085173"/>
+    <nd ref="4018132428" lat="45.6158122" lon="11.0086575"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="highway" v="unclassified"/>
   </way>
 </old>
 <new>
-  <way id="517172680" version="4" timestamp="2021-07-21T13:30:21Z" changeset="108368624" uid="852319" user="vrmap">
-    <bounds minlat="45.6633888" minlon="11.0083074" maxlat="45.6635428" maxlon="11.0083289"/>
-    <nd ref="1024645540" lat="45.6633888" lon="11.0083074"/>
-    <nd ref="1024645591" lat="45.6635428" lon="11.0083289"/>
-    <tag k="bicycle" v="yes"/>
-    <tag k="foot" v="yes"/>
-    <tag k="highway" v="service"/>
-    <tag k="motorcar" v="yes"/>
-    <tag k="motorcycle" v="yes"/>
+  <way id="611311898" version="2" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6154316" minlon="11.0081143" maxlat="45.6158122" maxlon="11.0086575"/>
+    <nd ref="4018132413" lat="45.6154316" lon="11.0081143"/>
+    <nd ref="4018132414" lat="45.6156356" lon="11.0081353"/>
+    <nd ref="4018132421" lat="45.6157041" lon="11.0081924"/>
+    <nd ref="4018132422" lat="45.6157405" lon="11.0083133"/>
+    <nd ref="4018132424" lat="45.6157243" lon="11.0084206"/>
+    <nd ref="4018132426" lat="45.6157513" lon="11.0085173"/>
+    <nd ref="4018132428" lat="45.6158122" lon="11.0086575"/>
+    <tag k="highway" v="unclassified"/>
     <tag k="sac_scale" v="hiking"/>
     <tag k="sac_scale_ref" v="T1"/>
-    <tag k="surface" v="gravel"/>
+    <tag k="surface" v="unpaved"/>
   </way>
 </new>
 </action>
 <action type="modify">
 <old>
-  <way id="517172681" version="2" timestamp="2019-12-07T17:11:01Z" changeset="78091770" uid="676877" user="tytoalba">
-    <bounds minlat="45.6554230" minlon="11.0068250" maxlat="45.6560958" maxlon="11.0073870"/>
-    <nd ref="351123475" lat="45.6560958" lon="11.0068250"/>
-    <nd ref="3668310118" lat="45.6560850" lon="11.0068870"/>
-    <nd ref="351123476" lat="45.6560260" lon="11.0070110"/>
-    <nd ref="3668310119" lat="45.6559220" lon="11.0071290"/>
-    <nd ref="3668310120" lat="45.6556010" lon="11.0073520"/>
-    <nd ref="3668310121" lat="45.6555180" lon="11.0073870"/>
-    <nd ref="351123477" lat="45.6554230" lon="11.0073820"/>
-    <tag k="surface" v="asphalt"/>
-    <tag k="name" v="Via Castelberto"/>
+  <way id="611311900" version="1" timestamp="2018-07-26T21:10:56Z" changeset="61101119" uid="1928626" user="Gianfranco2014">
+    <bounds minlat="45.6146115" minlon="11.0113199" maxlat="45.6160699" maxlon="11.0137618"/>
+    <nd ref="434432654" lat="45.6146115" lon="11.0113199"/>
+    <nd ref="434432657" lat="45.6146784" lon="11.0114287"/>
+    <nd ref="4018132406" lat="45.6147236" lon="11.0114780"/>
+    <nd ref="434432659" lat="45.6147853" lon="11.0115119"/>
+    <nd ref="4018132408" lat="45.6148698" lon="11.0115505"/>
+    <nd ref="434432661" lat="45.6149592" lon="11.0115609"/>
+    <nd ref="434432664" lat="45.6151672" lon="11.0115533"/>
+    <nd ref="434432665" lat="45.6152804" lon="11.0116211"/>
+    <nd ref="434432668" lat="45.6154226" lon="11.0118206"/>
+    <nd ref="434432670" lat="45.6155148" lon="11.0120729"/>
+    <nd ref="434432673" lat="45.6155764" lon="11.0123884"/>
+    <nd ref="434432675" lat="45.6156122" lon="11.0127106"/>
+    <nd ref="434432677" lat="45.6156075" lon="11.0130478"/>
+    <nd ref="4018132419" lat="45.6156253" lon="11.0131922"/>
+    <nd ref="434432679" lat="45.6156580" lon="11.0133160"/>
+    <nd ref="4018132423" lat="45.6156970" lon="11.0134485"/>
+    <nd ref="434432681" lat="45.6157705" lon="11.0135572"/>
+    <nd ref="434432685" lat="45.6159551" lon="11.0136942"/>
+    <nd ref="434432687" lat="45.6160699" lon="11.0137618"/>
+    <tag k="name" v="Via Saina"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="highway" v="unclassified"/>
   </way>
 </old>
 <new>
-  <way id="517172681" version="3" timestamp="2021-07-21T13:30:21Z" changeset="108368624" uid="852319" user="vrmap">
-    <bounds minlat="45.6554230" minlon="11.0068250" maxlat="45.6560958" maxlon="11.0073870"/>
-    <nd ref="351123475" lat="45.6560958" lon="11.0068250"/>
-    <nd ref="3668310118" lat="45.6560850" lon="11.0068870"/>
-    <nd ref="351123476" lat="45.6560260" lon="11.0070110"/>
-    <nd ref="3668310119" lat="45.6559220" lon="11.0071290"/>
-    <nd ref="3668310120" lat="45.6556010" lon="11.0073520"/>
-    <nd ref="3668310121" lat="45.6555180" lon="11.0073870"/>
-    <nd ref="351123477" lat="45.6554230" lon="11.0073820"/>
+  <way id="611311900" version="2" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6146115" minlon="11.0113199" maxlat="45.6160699" maxlon="11.0137618"/>
+    <nd ref="434432654" lat="45.6146115" lon="11.0113199"/>
+    <nd ref="434432657" lat="45.6146784" lon="11.0114287"/>
+    <nd ref="4018132406" lat="45.6147236" lon="11.0114780"/>
+    <nd ref="434432659" lat="45.6147853" lon="11.0115119"/>
+    <nd ref="4018132408" lat="45.6148698" lon="11.0115505"/>
+    <nd ref="434432661" lat="45.6149592" lon="11.0115609"/>
+    <nd ref="434432664" lat="45.6151672" lon="11.0115533"/>
+    <nd ref="434432665" lat="45.6152804" lon="11.0116211"/>
+    <nd ref="434432668" lat="45.6154226" lon="11.0118206"/>
+    <nd ref="434432670" lat="45.6155148" lon="11.0120729"/>
+    <nd ref="434432673" lat="45.6155764" lon="11.0123884"/>
+    <nd ref="434432675" lat="45.6156122" lon="11.0127106"/>
+    <nd ref="434432677" lat="45.6156075" lon="11.0130478"/>
+    <nd ref="4018132419" lat="45.6156253" lon="11.0131922"/>
+    <nd ref="434432679" lat="45.6156580" lon="11.0133160"/>
+    <nd ref="4018132423" lat="45.6156970" lon="11.0134485"/>
+    <nd ref="434432681" lat="45.6157705" lon="11.0135572"/>
+    <nd ref="434432685" lat="45.6159551" lon="11.0136942"/>
+    <nd ref="434432687" lat="45.6160699" lon="11.0137618"/>
     <tag k="highway" v="unclassified"/>
-    <tag k="name" v="Via Castelberto"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Via Saina"/>
     <tag k="sac_scale" v="hiking"/>
     <tag k="sac_scale_ref" v="T1"/>
-    <tag k="surface" v="asphalt"/>
   </way>
 </new>
 </action>
 <action type="modify">
 <old>
-  <way id="517172682" version="2" timestamp="2019-12-07T17:11:01Z" changeset="78091770" uid="676877" user="tytoalba">
-    <bounds minlat="45.6537230" minlon="11.0010590" maxlat="45.6554230" maxlon="11.0073820"/>
-    <nd ref="351123477" lat="45.6554230" lon="11.0073820"/>
-    <nd ref="2404915603" lat="45.6553620" lon="11.0073390"/>
-    <nd ref="351123478" lat="45.6553010" lon="11.0072190"/>
-    <nd ref="3668310122" lat="45.6552340" lon="11.0066820"/>
-    <nd ref="3668310123" lat="45.6552280" lon="11.0064910"/>
-    <nd ref="351123479" lat="45.6552420" lon="11.0063270"/>
-    <nd ref="3668310124" lat="45.6553360" lon="11.0057620"/>
-    <nd ref="351123480" lat="45.6553480" lon="11.0055720"/>
-    <nd ref="3668317325" lat="45.6553300" lon="11.0052940"/>
-    <nd ref="3668317326" lat="45.6552790" lon="11.0049610"/>
-    <nd ref="351123481" lat="45.6552760" lon="11.0048110"/>
-    <nd ref="1731852472" lat="45.6553300" lon="11.0044030"/>
-    <nd ref="351123482" lat="45.6553810" lon="11.0040180"/>
-    <nd ref="1941219966" lat="45.6553660" lon="11.0037544"/>
-    <nd ref="3668317327" lat="45.6553580" lon="11.0036150"/>
-    <nd ref="3668317328" lat="45.6547060" lon="11.0013060"/>
-    <nd ref="351123483" lat="45.6546650" lon="11.0011810"/>
-    <nd ref="2442565721" lat="45.6546220" lon="11.0011050"/>
-    <nd ref="2442565720" lat="45.6545780" lon="11.0010700"/>
-    <nd ref="2442565719" lat="45.6545100" lon="11.0010590"/>
-    <nd ref="2442565718" lat="45.6544610" lon="11.0010840"/>
-    <nd ref="351123484" lat="45.6543960" lon="11.0011670"/>
-    <nd ref="3668317329" lat="45.6542230" lon="11.0015560"/>
-    <nd ref="2442565717" lat="45.6541560" lon="11.0016750"/>
-    <nd ref="351123485" lat="45.6541010" lon="11.0017370"/>
-    <nd ref="2442565716" lat="45.6540120" lon="11.0017900"/>
-    <nd ref="2442565715" lat="45.6538890" lon="11.0018070"/>
-    <nd ref="351123486" lat="45.6537230" lon="11.0017530"/>
-    <tag k="surface" v="asphalt"/>
-    <tag k="name" v="Via Castelberto"/>
+  <way id="622678620" version="1" timestamp="2018-09-04T10:04:01Z" changeset="62272896" uid="852319" user="vrmap">
+    <bounds minlat="45.6164935" minlon="11.0066103" maxlat="45.6173134" maxlon="11.0073741"/>
+    <nd ref="4018132454" lat="45.6164935" lon="11.0073741"/>
+    <nd ref="4018132469" lat="45.6166947" lon="11.0072919"/>
+    <nd ref="4018132470" lat="45.6168401" lon="11.0071855"/>
+    <nd ref="4018132471" lat="45.6169872" lon="11.0070695"/>
+    <nd ref="4018132472" lat="45.6171816" lon="11.0069535"/>
+    <nd ref="4018132473" lat="45.6172221" lon="11.0069269"/>
+    <nd ref="4018132474" lat="45.6172999" lon="11.0068012"/>
+    <nd ref="4018132475" lat="45.6173117" lon="11.0066876"/>
+    <nd ref="4018132476" lat="45.6173134" lon="11.0066103"/>
+    <tag k="surface" v="concrete"/>
     <tag k="highway" v="unclassified"/>
   </way>
 </old>
 <new>
-  <way id="517172682" version="3" timestamp="2021-07-21T13:30:21Z" changeset="108368624" uid="852319" user="vrmap">
-    <bounds minlat="45.6537230" minlon="11.0010590" maxlat="45.6554230" maxlon="11.0073820"/>
-    <nd ref="351123477" lat="45.6554230" lon="11.0073820"/>
-    <nd ref="2404915603" lat="45.6553620" lon="11.0073390"/>
-    <nd ref="351123478" lat="45.6553010" lon="11.0072190"/>
-    <nd ref="3668310122" lat="45.6552340" lon="11.0066820"/>
-    <nd ref="3668310123" lat="45.6552280" lon="11.0064910"/>
-    <nd ref="351123479" lat="45.6552420" lon="11.0063270"/>
-    <nd ref="3668310124" lat="45.6553360" lon="11.0057620"/>
-    <nd ref="351123480" lat="45.6553480" lon="11.0055720"/>
-    <nd ref="3668317325" lat="45.6553300" lon="11.0052940"/>
-    <nd ref="3668317326" lat="45.6552790" lon="11.0049610"/>
-    <nd ref="351123481" lat="45.6552760" lon="11.0048110"/>
-    <nd ref="1731852472" lat="45.6553300" lon="11.0044030"/>
-    <nd ref="351123482" lat="45.6553810" lon="11.0040180"/>
-    <nd ref="1941219966" lat="45.6553660" lon="11.0037544"/>
-    <nd ref="3668317327" lat="45.6553580" lon="11.0036150"/>
-    <nd ref="3668317328" lat="45.6547060" lon="11.0013060"/>
-    <nd ref="351123483" lat="45.6546650" lon="11.0011810"/>
-    <nd ref="2442565721" lat="45.6546220" lon="11.0011050"/>
-    <nd ref="2442565720" lat="45.6545780" lon="11.0010700"/>
-    <nd ref="2442565719" lat="45.6545100" lon="11.0010590"/>
-    <nd ref="2442565718" lat="45.6544610" lon="11.0010840"/>
-    <nd ref="351123484" lat="45.6543960" lon="11.0011670"/>
-    <nd ref="3668317329" lat="45.6542230" lon="11.0015560"/>
-    <nd ref="2442565717" lat="45.6541560" lon="11.0016750"/>
-    <nd ref="351123485" lat="45.6541010" lon="11.0017370"/>
-    <nd ref="2442565716" lat="45.6540120" lon="11.0017900"/>
-    <nd ref="2442565715" lat="45.6538890" lon="11.0018070"/>
-    <nd ref="351123486" lat="45.6537230" lon="11.0017530"/>
+  <way id="622678620" version="2" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6164935" minlon="11.0066103" maxlat="45.6173134" maxlon="11.0073741"/>
+    <nd ref="4018132454" lat="45.6164935" lon="11.0073741"/>
+    <nd ref="4018132469" lat="45.6166947" lon="11.0072919"/>
+    <nd ref="4018132470" lat="45.6168401" lon="11.0071855"/>
+    <nd ref="4018132471" lat="45.6169872" lon="11.0070695"/>
+    <nd ref="4018132472" lat="45.6171816" lon="11.0069535"/>
+    <nd ref="4018132473" lat="45.6172221" lon="11.0069269"/>
+    <nd ref="4018132474" lat="45.6172999" lon="11.0068012"/>
+    <nd ref="4018132475" lat="45.6173117" lon="11.0066876"/>
+    <nd ref="4018132476" lat="45.6173134" lon="11.0066103"/>
     <tag k="highway" v="unclassified"/>
-    <tag k="name" v="Via Castelberto"/>
     <tag k="sac_scale" v="hiking"/>
     <tag k="sac_scale_ref" v="T1"/>
-    <tag k="surface" v="asphalt"/>
+    <tag k="surface" v="concrete"/>
   </way>
 </new>
 </action>
 <action type="modify">
 <old>
-  <way id="700788808" version="5" timestamp="2021-07-11T15:31:52Z" changeset="107787360" uid="351361" user="dvdzero">
-    <bounds minlat="45.6428746" minlon="10.9995491" maxlat="45.6432533" maxlon="10.9998134"/>
-    <nd ref="262108199" lat="45.6432533" lon="10.9995491"/>
-    <nd ref="2401013998" lat="45.6431729" lon="10.9996052"/>
-    <nd ref="2404915566" lat="45.6428746" lon="10.9998134"/>
+  <way id="700786884" version="1" timestamp="2019-07-01T07:11:55Z" changeset="71773709" uid="852319" user="vrmap">
+    <bounds minlat="45.6364447" minlon="11.0014474" maxlat="45.6380547" maxlon="11.0017121"/>
+    <nd ref="1868463239" lat="45.6364447" lon="11.0017121"/>
+    <nd ref="1868463252" lat="45.6369323" lon="11.0015941"/>
+    <nd ref="1868463234" lat="45.6374049" lon="11.0014975"/>
+    <nd ref="1868463235" lat="45.6377499" lon="11.0014546"/>
+    <nd ref="1909228600" lat="45.6380116" lon="11.0014474"/>
+    <nd ref="1909228602" lat="45.6380547" lon="11.0014532"/>
     <tag k="surface" v="asphalt"/>
-    <tag k="sidewalk" v="none"/>
-    <tag k="cycleway:both" v="no"/>
-    <tag k="foot" v="yes"/>
-    <tag k="highway" v="tertiary"/>
-    <tag k="lane_markings" v="no"/>
-    <tag k="lit" v="yes"/>
+    <tag k="name" v="Via Campioniva"/>
+    <tag k="access" v="destination"/>
+    <tag k="highway" v="residential"/>
     <tag k="maxspeed:type" v="IT:urban"/>
-    <tag k="name" v="Via Roma"/>
   </way>
 </old>
 <new>
-  <way id="700788808" version="6" timestamp="2021-07-21T13:30:21Z" changeset="108368624" uid="852319" user="vrmap">
-    <bounds minlat="45.6428746" minlon="10.9995491" maxlat="45.6432533" maxlon="10.9998134"/>
-    <nd ref="262108199" lat="45.6432533" lon="10.9995491"/>
-    <nd ref="2401013998" lat="45.6431729" lon="10.9996052"/>
-    <nd ref="2404915566" lat="45.6428746" lon="10.9998134"/>
-    <tag k="cycleway:both" v="no"/>
-    <tag k="foot" v="yes"/>
-    <tag k="highway" v="tertiary"/>
-    <tag k="lane_markings" v="no"/>
-    <tag k="lit" v="yes"/>
+  <way id="700786884" version="2" timestamp="2021-07-22T10:59:05Z" changeset="108422775" uid="852319" user="vrmap">
+    <bounds minlat="45.6364447" minlon="11.0014474" maxlat="45.6380547" maxlon="11.0017121"/>
+    <nd ref="1868463239" lat="45.6364447" lon="11.0017121"/>
+    <nd ref="1868463252" lat="45.6369323" lon="11.0015941"/>
+    <nd ref="1868463234" lat="45.6374049" lon="11.0014975"/>
+    <nd ref="1868463235" lat="45.6377499" lon="11.0014546"/>
+    <nd ref="1909228600" lat="45.6380116" lon="11.0014474"/>
+    <nd ref="1909228602" lat="45.6380547" lon="11.0014532"/>
+    <tag k="access" v="destination"/>
+    <tag k="highway" v="residential"/>
     <tag k="maxspeed:type" v="IT:urban"/>
-    <tag k="name" v="Via Roma"/>
+    <tag k="name" v="Via Campioniva"/>
     <tag k="sac_scale" v="hiking"/>
     <tag k="sac_scale_ref" v="T1"/>
-    <tag k="sidewalk" v="none"/>
     <tag k="surface" v="asphalt"/>
   </way>
 </new>
