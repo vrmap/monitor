@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-08-09T00:27:13Z" areas="2021-08-08T23:21:59Z"/>
+<meta osm_base="2021-08-10T00:26:12Z" areas="2021-08-10T00:00:43Z"/>
 
 <action type="modify">
 <old>
-  <way id="67847938" version="9" timestamp="2021-07-17T15:00:27Z" changeset="108163524" uid="852319" user="vrmap">
-    <bounds minlat="45.6197883" minlon="11.0324169" maxlat="45.6198772" maxlon="11.0352119"/>
-    <nd ref="434433042" lat="45.6197883" lon="11.0324169"/>
-    <nd ref="819120441" lat="45.6198015" lon="11.0325338"/>
-    <nd ref="819120818" lat="45.6198329" lon="11.0330586"/>
-    <nd ref="819120302" lat="45.6198221" lon="11.0338180"/>
-    <nd ref="819120289" lat="45.6198681" lon="11.0341723"/>
-    <nd ref="846928148" lat="45.6198772" lon="11.0345616"/>
-    <nd ref="819120356" lat="45.6198715" lon="11.0348842"/>
-    <nd ref="2405176905" lat="45.6198649" lon="11.0350605"/>
-    <nd ref="819120666" lat="45.6198636" lon="11.0352119"/>
+  <way id="367555867" version="5" timestamp="2021-07-24T16:30:04Z" changeset="108538827" uid="852319" user="vrmap">
+    <bounds minlat="45.5998653" minlon="11.0296910" maxlat="45.6012915" maxlon="11.0307728"/>
+    <nd ref="434433510" lat="45.5998653" lon="11.0307059"/>
+    <nd ref="434433511" lat="45.5999592" lon="11.0307611"/>
+    <nd ref="3714715881" lat="45.6000297" lon="11.0307728"/>
+    <nd ref="434433512" lat="45.6001186" lon="11.0307611"/>
+    <nd ref="7928059406" lat="45.6002160" lon="11.0307232"/>
+    <nd ref="434433513" lat="45.6002588" lon="11.0307065"/>
+    <nd ref="434433514" lat="45.6005330" lon="11.0304377"/>
+    <nd ref="434433515" lat="45.6007097" lon="11.0302602"/>
+    <nd ref="434433516" lat="45.6009728" lon="11.0299822"/>
+    <nd ref="434433517" lat="45.6012915" lon="11.0296910"/>
     <tag k="surface" v="asphalt"/>
     <tag k="highway" v="tertiary"/>
-    <tag k="name" v="Via Sant'Antonio"/>
+    <tag k="name" v="Via Frizzolana"/>
+    <tag k="ref" v="SP14b"/>
     <tag k="sac_scale" v="hiking"/>
     <tag k="sac_scale_ref" v="T1"/>
   </way>
 </old>
 <new>
-  <way id="67847938" version="10" timestamp="2021-08-08T19:26:20Z" changeset="109360059" uid="351361" user="dvdzero">
-    <bounds minlat="45.6197883" minlon="11.0324169" maxlat="45.6198772" maxlon="11.0352119"/>
-    <nd ref="434433042" lat="45.6197883" lon="11.0324169"/>
-    <nd ref="819120441" lat="45.6198015" lon="11.0325338"/>
-    <nd ref="819120818" lat="45.6198329" lon="11.0330586"/>
-    <nd ref="819120302" lat="45.6198221" lon="11.0338180"/>
-    <nd ref="819120289" lat="45.6198681" lon="11.0341723"/>
-    <nd ref="846928148" lat="45.6198772" lon="11.0345616"/>
-    <nd ref="819120356" lat="45.6198715" lon="11.0348842"/>
-    <nd ref="2405176905" lat="45.6198649" lon="11.0350605"/>
-    <nd ref="819120666" lat="45.6198636" lon="11.0352119"/>
+  <way id="367555867" version="6" timestamp="2021-08-09T22:32:05Z" changeset="109430946" uid="351361" user="dvdzero">
+    <bounds minlat="45.5998653" minlon="11.0296910" maxlat="45.6012915" maxlon="11.0307728"/>
+    <nd ref="434433510" lat="45.5998653" lon="11.0307059"/>
+    <nd ref="434433511" lat="45.5999592" lon="11.0307611"/>
+    <nd ref="3714715881" lat="45.6000297" lon="11.0307728"/>
+    <nd ref="434433512" lat="45.6001186" lon="11.0307611"/>
+    <nd ref="7928059406" lat="45.6002160" lon="11.0307232"/>
+    <nd ref="434433513" lat="45.6002588" lon="11.0307065"/>
+    <nd ref="434433514" lat="45.6005330" lon="11.0304377"/>
+    <nd ref="434433515" lat="45.6007097" lon="11.0302602"/>
+    <nd ref="434433516" lat="45.6009728" lon="11.0299822"/>
+    <nd ref="434433517" lat="45.6012915" lon="11.0296910"/>
     <tag k="cycleway:both" v="no"/>
     <tag k="highway" v="tertiary"/>
-    <tag k="name" v="Via Sant'Antonio"/>
+    <tag k="name" v="Via Frizzolana"/>
+    <tag k="ref" v="SP14b"/>
     <tag k="sac_scale" v="hiking"/>
     <tag k="sac_scale_ref" v="T1"/>
     <tag k="surface" v="asphalt"/>
