@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-09-17T00:30:27Z" areas="2021-09-16T23:26:03Z"/>
+
+<action type="modify">
+<old>
+  <node id="5615782615" lat="45.6061020" lon="10.9170254" version="11" timestamp="2021-03-13T11:24:28Z" changeset="100949362" uid="270456" user="pyrog">
+    <tag k="destination" v="Cerna 1:30;Mondrago 2:10;Bolca 4:00| Molina 0:40;Molane 2:10;S. Giorgio di V.lla 7:30| Molin del Cao 1:10;Mondrago 2:30| Molina 0:40;Breonio 1:30;Peri 3;20"/>
+    <tag k="ele" v="400"/>
+    <tag k="hiking" v="yes"/>
+    <tag k="information" v="guidepost"/>
+    <tag k="name" v="Progno di Breonio"/>
+    <tag k="operator" v="Club Alpino Italiano Sezione di San Pietro in Cariano"/>
+    <tag k="ref" v="238/2"/>
+    <tag k="support" v="pole"/>
+    <tag k="tourism" v="information"/>
+    <tag k="wikimedia_commons" v="File:CAI segnavia sentiero 238-252 Progno di Breonio release 01.jpg"/>
+  </node>
+</old>
+<new>
+  <node id="5615782615" lat="45.6061020" lon="10.9170254" version="12" timestamp="2021-09-16T17:19:29Z" changeset="111302075" uid="8143621" user="GabScat">
+    <tag k="destination" v="Cerna 1:30;Mondrago 2:10;Bolca 4:00| Molina 0:40;Molane 2:10;S. Giorgio di V.lla 7:30| Molin de Cao 1:10;Mondrago 2:30| Molina 0:40;Breonio 1:30;Peri 3;20"/>
+    <tag k="ele" v="400"/>
+    <tag k="hiking" v="yes"/>
+    <tag k="information" v="guidepost"/>
+    <tag k="name" v="Progno di Breonio"/>
+    <tag k="operator" v="Club Alpino Italiano Sezione di San Pietro in Cariano"/>
+    <tag k="ref" v="238/2"/>
+    <tag k="support" v="pole"/>
+    <tag k="tourism" v="information"/>
+    <tag k="wikimedia_commons" v="File:CAI segnavia sentiero 238-252 Progno di Breonio release 01.jpg"/>
+  </node>
+</new>
+</action>
+<action type="modify">
+<old>
+  <node id="5615782616" lat="45.5897166" lon="10.9076924" version="8" timestamp="2021-06-03T19:35:03Z" changeset="105797784" uid="8143621" user="GabScat">
+    <tag k="name" v="Molin del Cao"/>
+    <tag k="destination" v="Mondrago 01:20;Val sorda E.E.| Bivio sent.252 01:10;Molina 01:50;S. Giorgio di V.lla 07:30;Manune 0:40;Molane 02:10;"/>
+    <tag k="ele" v="308"/>
+    <tag k="information" v="guidepost"/>
+    <tag k="operator" v="Club Alpino Italiano Sezione di San Pietro in Cariano"/>
+    <tag k="ref" v="238/5"/>
+    <tag k="support" v="pole"/>
+    <tag k="tourism" v="information"/>
+    <tag k="wikimedia_commons" v="File:CAI segnavia sentiero 238 waypoint 097 release 01.jpg"/>
+  </node>
+</old>
+<new>
+  <node id="5615782616" lat="45.5897166" lon="10.9076924" version="9" timestamp="2021-09-16T17:19:29Z" changeset="111302075" uid="8143621" user="GabScat">
+    <tag k="destination" v="Mondrago 01:20;Val sorda E.E.| Bivio sent.252 01:10;Molina 01:50;S. Giorgio di V.lla 07:30;Manune 0:40;Molane 02:10;"/>
+    <tag k="ele" v="308"/>
+    <tag k="information" v="guidepost"/>
+    <tag k="name" v="Molin de Cao"/>
+    <tag k="operator" v="Club Alpino Italiano Sezione di San Pietro in Cariano"/>
+    <tag k="ref" v="238/5"/>
+    <tag k="support" v="pole"/>
+    <tag k="tourism" v="information"/>
+    <tag k="wikimedia_commons" v="File:CAI segnavia sentiero 238 waypoint 097 release 01.jpg"/>
+  </node>
+</new>
+</action>
+
+</osm>
