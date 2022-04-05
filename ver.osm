@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-04-05T00:40:53Z" areas="2022-04-04T23:57:20Z"/>
+
+<action type="modify">
+<old>
+  <way id="66989896" version="10" timestamp="2020-07-21T15:13:40Z" changeset="88301073" uid="3755477" user="ent8r">
+    <bounds minlat="45.6839922" minlon="10.7504395" maxlat="45.6840706" maxlon="10.7506085"/>
+    <nd ref="809716433" lat="45.6840706" lon="10.7504395"/>
+    <nd ref="809716463" lat="45.6839922" lon="10.7506085"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxheight" v="below_default"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+    <tag k="maxwidth" v="1.5"/>
+    <tag k="motorcar" v="permissive"/>
+    <tag k="name" v="Via Don G. Trecca"/>
+    <tag k="sac_scale" v="mountain_hiking"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="width" v="1.6"/>
+  </way>
+</old>
+<new>
+  <way id="66989896" version="11" timestamp="2022-04-04T04:48:44Z" changeset="119284876" uid="1624486" user="thetornado76">
+    <bounds minlat="45.6839922" minlon="10.7504395" maxlat="45.6840706" maxlon="10.7506085"/>
+    <nd ref="809716433" lat="45.6840706" lon="10.7504395"/>
+    <nd ref="809716463" lat="45.6839922" lon="10.7506085"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxheight" v="below_default"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+    <tag k="maxwidth" v="1.5"/>
+    <tag k="motorcar" v="permissive"/>
+    <tag k="name" v="Via Don G. Trecca"/>
+    <tag k="sac_scale" v="mountain_hiking"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="width" v="1.6"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="68599958" version="8" timestamp="2020-07-21T15:13:55Z" changeset="88301073" uid="3755477" user="ent8r">
+    <bounds minlat="45.6862686" minlon="10.7498141" maxlat="45.6864720" maxlon="10.7499599"/>
+    <nd ref="171025829" lat="45.6864720" lon="10.7498141"/>
+    <nd ref="824787477" lat="45.6862686" lon="10.7499599"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+    <tag k="name" v="Via Grotte"/>
+    <tag k="sac_scale" v="mountain_hiking"/>
+    <tag k="surface" v="sett"/>
+  </way>
+</old>
+<new>
+  <way id="68599958" version="9" timestamp="2022-04-04T04:48:44Z" changeset="119284876" uid="1624486" user="thetornado76">
+    <bounds minlat="45.6862686" minlon="10.7498141" maxlat="45.6864720" maxlon="10.7499599"/>
+    <nd ref="171025829" lat="45.6864720" lon="10.7498141"/>
+    <nd ref="824787477" lat="45.6862686" lon="10.7499599"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+    <tag k="name" v="Via Grotte"/>
+    <tag k="sac_scale" v="mountain_hiking"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="sett"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="268554241" version="9" timestamp="2022-02-25T22:37:44Z" changeset="117864959" uid="2154142" user="Eric Böhnisch-Volkmann">
+    <bounds minlat="45.6840706" minlon="10.7502734" maxlat="45.6847048" maxlon="10.7505138"/>
+    <nd ref="171025756" lat="45.6847048" lon="10.7505138"/>
+    <nd ref="5744082616" lat="45.6846856" lon="10.7504620"/>
+    <nd ref="171025739" lat="45.6846477" lon="10.7504089"/>
+    <nd ref="5744082617" lat="45.6845918" lon="10.7503495"/>
+    <nd ref="820820792" lat="45.6845390" lon="10.7503080"/>
+    <nd ref="5744082618" lat="45.6844835" lon="10.7502872"/>
+    <nd ref="5744082619" lat="45.6844116" lon="10.7502734"/>
+    <nd ref="171025731" lat="45.6842964" lon="10.7502743"/>
+    <nd ref="5744082620" lat="45.6842464" lon="10.7502935"/>
+    <nd ref="171025694" lat="45.6842112" lon="10.7503108"/>
+    <nd ref="9535876259" lat="45.6841597" lon="10.7503130"/>
+    <nd ref="809716433" lat="45.6840706" lon="10.7504395"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+    <tag k="maxwidth" v="1.5"/>
+    <tag k="motorcar" v="permissive"/>
+    <tag k="name" v="Via Don G. Trecca"/>
+    <tag k="sac_scale" v="mountain_hiking"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="1.6"/>
+  </way>
+</old>
+<new>
+  <way id="268554241" version="10" timestamp="2022-04-04T04:48:44Z" changeset="119284876" uid="1624486" user="thetornado76">
+    <bounds minlat="45.6840706" minlon="10.7502734" maxlat="45.6847048" maxlon="10.7505138"/>
+    <nd ref="171025756" lat="45.6847048" lon="10.7505138"/>
+    <nd ref="5744082616" lat="45.6846856" lon="10.7504620"/>
+    <nd ref="171025739" lat="45.6846477" lon="10.7504089"/>
+    <nd ref="5744082617" lat="45.6845918" lon="10.7503495"/>
+    <nd ref="820820792" lat="45.6845390" lon="10.7503080"/>
+    <nd ref="5744082618" lat="45.6844835" lon="10.7502872"/>
+    <nd ref="5744082619" lat="45.6844116" lon="10.7502734"/>
+    <nd ref="171025731" lat="45.6842964" lon="10.7502743"/>
+    <nd ref="5744082620" lat="45.6842464" lon="10.7502935"/>
+    <nd ref="171025694" lat="45.6842112" lon="10.7503108"/>
+    <nd ref="9535876259" lat="45.6841597" lon="10.7503130"/>
+    <nd ref="809716433" lat="45.6840706" lon="10.7504395"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+    <tag k="maxwidth" v="1.5"/>
+    <tag k="motorcar" v="permissive"/>
+    <tag k="name" v="Via Don G. Trecca"/>
+    <tag k="sac_scale" v="mountain_hiking"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="1.6"/>
+  </way>
+</new>
+</action>
+
+</osm>
