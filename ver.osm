@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-04-24T00:43:55Z" areas="2022-04-24T00:13:34Z"/>
+
+<action type="modify">
+<old>
+  <node id="8516069918" lat="45.6212780" lon="11.0306972" version="1" timestamp="2021-03-14T08:22:23Z" changeset="100979761" uid="852319" user="vrmap">
+    <tag k="highway" v="crossing"/>
+  </node>
+</old>
+<new>
+  <node id="8516069918" lat="45.6212780" lon="11.0306972" version="2" timestamp="2022-04-23T08:23:45Z" changeset="120080768" uid="852319" user="vrmap">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+</new>
+</action>
+
+</osm>
