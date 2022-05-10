@@ -1,147 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-09T00:50:38Z" areas="2022-05-09T00:22:25Z"/>
+<meta osm_base="2022-05-10T00:47:09Z" areas="2022-05-10T00:35:58Z"/>
 
 <action type="modify">
 <old>
-  <way id="37285096" version="10" timestamp="2021-07-18T16:11:45Z" changeset="108198582" uid="852319" user="vrmap">
-    <bounds minlat="45.6220980" minlon="11.0277258" maxlat="45.6222225" maxlon="11.0288353"/>
-    <nd ref="434432931" lat="45.6222223" lon="11.0277258"/>
-    <nd ref="434432961" lat="45.6222225" lon="11.0278593"/>
-    <nd ref="434432963" lat="45.6221526" lon="11.0284548"/>
-    <nd ref="2358606848" lat="45.6221334" lon="11.0285873"/>
-    <nd ref="434432994" lat="45.6220980" lon="11.0288353"/>
-    <tag k="surface" v="asphalt"/>
-    <tag k="sac_scale_ref" v="T1"/>
-    <tag k="highway" v="tertiary"/>
-    <tag k="name" v="Via Spiazzi"/>
-    <tag k="sac_scale" v="hiking"/>
-  </way>
-</old>
-<new>
-  <way id="37285096" version="12" timestamp="2022-05-08T15:09:19Z" changeset="120705794" uid="351361" user="dvdzero">
-    <bounds minlat="45.6220980" minlon="11.0277258" maxlat="45.6222225" maxlon="11.0288353"/>
-    <nd ref="434432931" lat="45.6222223" lon="11.0277258"/>
-    <nd ref="434432961" lat="45.6222225" lon="11.0278593"/>
-    <nd ref="434432963" lat="45.6221526" lon="11.0284548"/>
-    <nd ref="2358606848" lat="45.6221334" lon="11.0285873"/>
-    <nd ref="434432994" lat="45.6220980" lon="11.0288353"/>
-    <tag k="cycleway:both" v="no"/>
-    <tag k="highway" v="tertiary"/>
-    <tag k="lane_markings" v="no"/>
-    <tag k="name" v="Via Spiazzi"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-    <tag k="surface" v="asphalt"/>
-  </way>
-</new>
-</action>
-<action type="modify">
-<old>
-  <way id="148609158" version="3" timestamp="2012-03-23T08:42:24Z" changeset="11071440" uid="78656" user="Walter Schlögl">
-    <bounds minlat="45.6222223" minlon="11.0269810" maxlat="45.6249400" maxlon="11.0277258"/>
-    <nd ref="1616890968" lat="45.6249400" lon="11.0269810"/>
-    <nd ref="1616890953" lat="45.6247894" lon="11.0270603"/>
-    <nd ref="1616890934" lat="45.6245821" lon="11.0271675"/>
-    <nd ref="1616890922" lat="45.6244321" lon="11.0271801"/>
-    <nd ref="1616890914" lat="45.6242954" lon="11.0272242"/>
-    <nd ref="1616890906" lat="45.6241234" lon="11.0273315"/>
-    <nd ref="1616890874" lat="45.6238235" lon="11.0274008"/>
-    <nd ref="1616890862" lat="45.6235941" lon="11.0275269"/>
-    <nd ref="1616890858" lat="45.6234001" lon="11.0275206"/>
-    <nd ref="1616890849" lat="45.6231002" lon="11.0275585"/>
-    <nd ref="1616890844" lat="45.6228311" lon="11.0275774"/>
-    <nd ref="1616890839" lat="45.6225048" lon="11.0275396"/>
-    <nd ref="1616890838" lat="45.6223239" lon="11.0276089"/>
-    <nd ref="434432931" lat="45.6222223" lon="11.0277258"/>
-    <tag k="surface" v="grass"/>
-    <tag k="sac_scale_ref" v="T2"/>
-    <tag k="highway" v="residential"/>
-    <tag k="motorcar" v="agricultural"/>
-    <tag k="mtb:scale" v="2"/>
-    <tag k="name" v="Via Monte Ortigara"/>
-    <tag k="sac_scale" v="mountain_hiking"/>
-  </way>
-</old>
-<new>
-  <way id="148609158" version="5" timestamp="2022-05-08T14:44:58Z" changeset="120705550" uid="351361" user="dvdzero">
-    <bounds minlat="45.6222223" minlon="11.0269810" maxlat="45.6249400" maxlon="11.0277258"/>
-    <nd ref="1616890968" lat="45.6249400" lon="11.0269810"/>
-    <nd ref="1616890953" lat="45.6247894" lon="11.0270603"/>
-    <nd ref="1616890934" lat="45.6245821" lon="11.0271675"/>
-    <nd ref="1616890922" lat="45.6244321" lon="11.0271801"/>
-    <nd ref="1616890914" lat="45.6242954" lon="11.0272242"/>
-    <nd ref="1616890906" lat="45.6241234" lon="11.0273315"/>
-    <nd ref="1616890874" lat="45.6238235" lon="11.0274008"/>
-    <nd ref="1616890862" lat="45.6235941" lon="11.0275269"/>
-    <nd ref="1616890858" lat="45.6234001" lon="11.0275206"/>
-    <nd ref="1616890849" lat="45.6231002" lon="11.0275585"/>
-    <nd ref="1616890844" lat="45.6228311" lon="11.0275774"/>
-    <nd ref="1616890839" lat="45.6225048" lon="11.0275396"/>
-    <nd ref="1616890838" lat="45.6223239" lon="11.0276089"/>
-    <nd ref="434432931" lat="45.6222223" lon="11.0277258"/>
-    <tag k="highway" v="residential"/>
-    <tag k="motorcar" v="agricultural"/>
-    <tag k="mtb:scale" v="2"/>
-    <tag k="name" v="Via Monte Ortigara"/>
-    <tag k="sac_scale" v="mountain_hiking"/>
-    <tag k="sac_scale_ref" v="T2"/>
-    <tag k="sidewalk" v="no"/>
-    <tag k="surface" v="asphalt"/>
-  </way>
-</new>
-</action>
-<action type="modify">
-<old>
-  <way id="148609161" version="5" timestamp="2021-09-06T18:19:07Z" changeset="110816038" uid="852319" user="vrmap">
-    <bounds minlat="45.6249400" minlon="11.0247837" maxlat="45.6271926" maxlon="11.0269810"/>
-    <nd ref="1616884613" lat="45.6271926" lon="11.0247837"/>
-    <nd ref="1616891009" lat="45.6270962" lon="11.0250796"/>
-    <nd ref="1616891004" lat="45.6270521" lon="11.0253319"/>
-    <nd ref="1616891005" lat="45.6270521" lon="11.0256346"/>
-    <nd ref="1616891006" lat="45.6270785" lon="11.0258490"/>
-    <nd ref="1616891007" lat="45.6270873" lon="11.0260003"/>
-    <nd ref="2477412132" lat="45.6270940" lon="11.0260805"/>
-    <nd ref="1616891008" lat="45.6270873" lon="11.0261643"/>
-    <nd ref="2477412129" lat="45.6270504" lon="11.0262078"/>
-    <nd ref="1616891003" lat="45.6270050" lon="11.0262335"/>
-    <nd ref="2477412124" lat="45.6269713" lon="11.0262305"/>
-    <nd ref="1616891002" lat="45.6269397" lon="11.0261932"/>
-    <nd ref="2477412121" lat="45.6268871" lon="11.0261314"/>
-    <nd ref="1616891001" lat="45.6268529" lon="11.0260376"/>
-    <nd ref="1616891000" lat="45.6267901" lon="11.0258231"/>
-    <nd ref="1616890999" lat="45.6267371" lon="11.0255868"/>
-    <nd ref="2477412116" lat="45.6267159" lon="11.0255440"/>
-    <nd ref="1616890998" lat="45.6266933" lon="11.0255201"/>
-    <nd ref="1616890997" lat="45.6266621" lon="11.0255135"/>
-    <nd ref="1616890996" lat="45.6265850" lon="11.0255211"/>
-    <nd ref="1616890995" lat="45.6265178" lon="11.0255432"/>
-    <nd ref="1616890994" lat="45.6264057" lon="11.0256268"/>
-    <nd ref="1616890993" lat="45.6263270" lon="11.0256803"/>
-    <nd ref="1616890992" lat="45.6262465" lon="11.0257655"/>
-    <nd ref="1616890991" lat="45.6261087" lon="11.0259137"/>
-    <nd ref="1616890990" lat="45.6259896" lon="11.0260303"/>
-    <nd ref="1616890987" lat="45.6257967" lon="11.0262321"/>
-    <nd ref="1616890984" lat="45.6256600" lon="11.0263661"/>
-    <nd ref="9067574752" lat="45.6255105" lon="11.0265007"/>
-    <nd ref="1616890980" lat="45.6254306" lon="11.0265727"/>
-    <nd ref="1616890978" lat="45.6253016" lon="11.0267256"/>
-    <nd ref="1616890976" lat="45.6251991" lon="11.0268360"/>
-    <nd ref="1616890974" lat="45.6251142" lon="11.0268691"/>
-    <nd ref="1616890972" lat="45.6250403" lon="11.0268801"/>
-    <nd ref="1616890970" lat="45.6249885" lon="11.0269211"/>
-    <nd ref="1616890968" lat="45.6249400" lon="11.0269810"/>
-    <tag k="surface" v="grass"/>
-    <tag k="highway" v="track"/>
-    <tag k="motorcar" v="agricultural"/>
-    <tag k="mtb:scale" v="2"/>
-    <tag k="name" v="Via Monte Ortigara"/>
-    <tag k="sac_scale" v="mountain_hiking"/>
-    <tag k="sac_scale_ref" v="T2"/>
-  </way>
-</old>
-<new>
   <way id="148609161" version="6" timestamp="2022-05-08T14:44:13Z" changeset="120705617" uid="351361" user="dvdzero">
     <bounds minlat="45.6249400" minlon="11.0247837" maxlat="45.6271926" maxlon="11.0269810"/>
     <nd ref="1616884613" lat="45.6271926" lon="11.0247837"/>
@@ -181,309 +44,62 @@
     <nd ref="1616890970" lat="45.6249885" lon="11.0269211"/>
     <nd ref="1616890968" lat="45.6249400" lon="11.0269810"/>
     <tag k="highway" v="track"/>
+    <tag k="surface" v="grass"/>
     <tag k="motorcar" v="agricultural"/>
     <tag k="mtb:scale" v="2"/>
     <tag k="name" v="Via Monte Ortigara"/>
     <tag k="sac_scale" v="mountain_hiking"/>
     <tag k="sac_scale_ref" v="T2"/>
-    <tag k="surface" v="grass"/>
     <tag k="tracktype" v="grade1"/>
   </way>
-</new>
-</action>
-<action type="modify">
-<old>
-  <way id="148894537" version="7" timestamp="2021-04-24T16:33:35Z" changeset="103544540" uid="852319" user="vrmap">
-    <bounds minlat="45.6221478" minlon="11.0293712" maxlat="45.6221713" maxlon="11.0302070"/>
-    <nd ref="434432968" lat="45.6221713" lon="11.0302070"/>
-    <nd ref="6572722336" lat="45.6221612" lon="11.0298195"/>
-    <nd ref="2358606851" lat="45.6221700" lon="11.0295105"/>
-    <nd ref="885877467" lat="45.6221478" lon="11.0293712"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="bicycle" v="yes"/>
-    <tag k="foot" v="yes"/>
-    <tag k="goods" v="no"/>
-    <tag k="hgv" v="yes"/>
-    <tag k="highway" v="residential"/>
-    <tag k="hov" v="yes"/>
-    <tag k="lit" v="yes"/>
-    <tag k="moped" v="no"/>
-    <tag k="motor_vehicle" v="no"/>
-    <tag k="motorcar" v="no"/>
-    <tag k="motorcycle" v="no"/>
-    <tag k="name" v="Piazza della Chiesa"/>
-    <tag k="oneway" v="yes"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-    <tag k="surface" v="sett"/>
-    <tag k="tourist_bus" v="yes"/>
-  </way>
 </old>
 <new>
-  <way id="148894537" version="8" timestamp="2022-05-08T15:35:11Z" changeset="120705550" uid="351361" user="dvdzero">
-    <bounds minlat="45.6221478" minlon="11.0293712" maxlat="45.6221713" maxlon="11.0302070"/>
-    <nd ref="434432968" lat="45.6221713" lon="11.0302070"/>
-    <nd ref="6572722336" lat="45.6221612" lon="11.0298195"/>
-    <nd ref="2358606851" lat="45.6221700" lon="11.0295105"/>
-    <nd ref="885877467" lat="45.6221478" lon="11.0293712"/>
-    <tag k="bicycle" v="yes"/>
-    <tag k="foot" v="yes"/>
-    <tag k="goods" v="no"/>
-    <tag k="hgv" v="yes"/>
-    <tag k="highway" v="residential"/>
-    <tag k="hov" v="yes"/>
-    <tag k="lit" v="yes"/>
-    <tag k="moped" v="no"/>
-    <tag k="motor_vehicle" v="no"/>
-    <tag k="motorcar" v="no"/>
-    <tag k="motorcycle" v="no"/>
-    <tag k="name" v="Piazza della Chiesa"/>
-    <tag k="oneway" v="yes"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-    <tag k="sidewalk" v="right"/>
-    <tag k="surface" v="sett"/>
-    <tag k="tourist_bus" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
-</new>
-</action>
-<action type="modify">
-<old>
-  <way id="148894551" version="9" timestamp="2021-07-17T15:00:27Z" changeset="108163524" uid="852319" user="vrmap">
-    <bounds minlat="45.6197542" minlon="11.0352119" maxlat="45.6198636" maxlon="11.0353783"/>
-    <nd ref="819120666" lat="45.6198636" lon="11.0352119"/>
-    <nd ref="1713960499" lat="45.6197542" lon="11.0353783"/>
-    <tag k="surface" v="asphalt"/>
-    <tag k="highway" v="secondary"/>
-    <tag k="name" v="Via General Cantore"/>
-    <tag k="ref" v="SP6"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-  </way>
-</old>
-<new>
-  <way id="148894551" version="10" timestamp="2022-05-08T19:01:58Z" changeset="120715743" uid="351361" user="dvdzero">
-    <bounds minlat="45.6197542" minlon="11.0352119" maxlat="45.6198636" maxlon="11.0353783"/>
-    <nd ref="819120666" lat="45.6198636" lon="11.0352119"/>
-    <nd ref="1713960499" lat="45.6197542" lon="11.0353783"/>
-    <tag k="cycleway:both" v="no"/>
-    <tag k="highway" v="secondary"/>
-    <tag k="name" v="Via General Cantore"/>
-    <tag k="ref" v="SP6"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-    <tag k="surface" v="asphalt"/>
-  </way>
-</new>
-</action>
-<action type="modify">
-<old>
-  <way id="159295036" version="5" timestamp="2021-07-18T16:11:45Z" changeset="108198582" uid="852319" user="vrmap">
-    <bounds minlat="45.6197542" minlon="11.0353710" maxlat="45.6201571" maxlon="11.0353925"/>
-    <nd ref="1713960499" lat="45.6197542" lon="11.0353783"/>
-    <nd ref="1713960501" lat="45.6198520" lon="11.0353925"/>
-    <nd ref="1713960505" lat="45.6199725" lon="11.0353788"/>
-    <nd ref="5982838654" lat="45.6200634" lon="11.0353750"/>
-    <nd ref="420591167" lat="45.6201571" lon="11.0353710"/>
-    <tag k="surface" v="asphalt"/>
-    <tag k="highway" v="secondary"/>
-    <tag k="maxspeed" v="50"/>
-    <tag k="name" v="Via M. Piccoli"/>
-    <tag k="oneway" v="yes"/>
-    <tag k="ref" v="SP6"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-  </way>
-</old>
-<new>
-  <way id="159295036" version="6" timestamp="2022-05-08T19:02:09Z" changeset="120715743" uid="351361" user="dvdzero">
-    <bounds minlat="45.6197542" minlon="11.0353710" maxlat="45.6201571" maxlon="11.0353925"/>
-    <nd ref="1713960499" lat="45.6197542" lon="11.0353783"/>
-    <nd ref="1713960501" lat="45.6198520" lon="11.0353925"/>
-    <nd ref="1713960505" lat="45.6199725" lon="11.0353788"/>
-    <nd ref="5982838654" lat="45.6200634" lon="11.0353750"/>
-    <nd ref="420591167" lat="45.6201571" lon="11.0353710"/>
-    <tag k="cycleway:right" v="no"/>
-    <tag k="highway" v="secondary"/>
-    <tag k="maxspeed" v="50"/>
-    <tag k="name" v="Via M. Piccoli"/>
-    <tag k="oneway" v="yes"/>
-    <tag k="ref" v="SP6"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-    <tag k="surface" v="asphalt"/>
-  </way>
-</new>
-</action>
-<action type="modify">
-<old>
-  <way id="232146698" version="6" timestamp="2021-07-18T16:11:45Z" changeset="108198582" uid="852319" user="vrmap">
-    <bounds minlat="45.6220719" minlon="11.0290155" maxlat="45.6221478" maxlon="11.0293712"/>
-    <nd ref="885877467" lat="45.6221478" lon="11.0293712"/>
-    <nd ref="2358606844" lat="45.6220872" lon="11.0291354"/>
-    <nd ref="5881519863" lat="45.6220719" lon="11.0290155"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="bicycle" v="yes"/>
-    <tag k="foot" v="yes"/>
-    <tag k="goods" v="no"/>
-    <tag k="hgv" v="yes"/>
-    <tag k="highway" v="residential"/>
-    <tag k="hov" v="yes"/>
-    <tag k="lit" v="yes"/>
-    <tag k="moped" v="no"/>
-    <tag k="motor_vehicle" v="no"/>
-    <tag k="motorcar" v="no"/>
-    <tag k="motorcycle" v="no"/>
-    <tag k="name" v="Piazza della Chiesa"/>
-    <tag k="oneway" v="yes"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-    <tag k="surface" v="sett"/>
-    <tag k="tourist_bus" v="yes"/>
-  </way>
-</old>
-<new>
-  <way id="232146698" version="7" timestamp="2022-05-08T15:11:36Z" changeset="120705550" uid="351361" user="dvdzero">
-    <bounds minlat="45.6220719" minlon="11.0290155" maxlat="45.6221478" maxlon="11.0293712"/>
-    <nd ref="885877467" lat="45.6221478" lon="11.0293712"/>
-    <nd ref="2358606844" lat="45.6220872" lon="11.0291354"/>
-    <nd ref="5881519863" lat="45.6220719" lon="11.0290155"/>
-    <tag k="bicycle" v="yes"/>
-    <tag k="foot" v="yes"/>
-    <tag k="goods" v="no"/>
-    <tag k="hgv" v="yes"/>
-    <tag k="highway" v="residential"/>
-    <tag k="hov" v="yes"/>
-    <tag k="lit" v="yes"/>
-    <tag k="moped" v="no"/>
-    <tag k="motor_vehicle" v="no"/>
-    <tag k="motorcar" v="no"/>
-    <tag k="motorcycle" v="no"/>
-    <tag k="name" v="Piazza della Chiesa"/>
-    <tag k="oneway" v="yes"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-    <tag k="sidewalk" v="right"/>
-    <tag k="surface" v="sett"/>
-    <tag k="tourist_bus" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
-</new>
-</action>
-<action type="modify">
-<old>
-  <way id="239971784" version="1" timestamp="2013-09-30T09:17:48Z" changeset="18106762" uid="852319" user="vrmap">
-    <bounds minlat="45.6271926" minlon="11.0236333" maxlat="45.6275220" maxlon="11.0247837"/>
-    <nd ref="2477412143" lat="45.6275220" lon="11.0236333"/>
-    <nd ref="1616884627" lat="45.6274903" lon="11.0239920"/>
+  <way id="148609161" version="7" timestamp="2022-05-09T06:44:14Z" changeset="120730524" uid="351361" user="dvdzero">
+    <bounds minlat="45.6249400" minlon="11.0247837" maxlat="45.6271926" maxlon="11.0269810"/>
     <nd ref="1616884613" lat="45.6271926" lon="11.0247837"/>
-    <tag k="surface" v="grass"/>
-    <tag k="sac_scale_ref" v="T2"/>
-    <tag k="highway" v="track"/>
-    <tag k="mtb:scale" v="2"/>
-    <tag k="name" v="Via Monte Ortigara"/>
-    <tag k="sac_scale" v="mountain_hiking"/>
-  </way>
-</old>
-<new>
-  <way id="239971784" version="3" timestamp="2022-05-08T14:44:07Z" changeset="120705617" uid="351361" user="dvdzero">
-    <bounds minlat="45.6271926" minlon="11.0236333" maxlat="45.6275220" maxlon="11.0247837"/>
-    <nd ref="2477412143" lat="45.6275220" lon="11.0236333"/>
-    <nd ref="1616884627" lat="45.6274903" lon="11.0239920"/>
-    <nd ref="1616884613" lat="45.6271926" lon="11.0247837"/>
-    <tag k="highway" v="track"/>
+    <nd ref="1616891009" lat="45.6270962" lon="11.0250796"/>
+    <nd ref="1616891004" lat="45.6270521" lon="11.0253319"/>
+    <nd ref="1616891005" lat="45.6270521" lon="11.0256346"/>
+    <nd ref="1616891006" lat="45.6270785" lon="11.0258490"/>
+    <nd ref="1616891007" lat="45.6270873" lon="11.0260003"/>
+    <nd ref="2477412132" lat="45.6270940" lon="11.0260805"/>
+    <nd ref="1616891008" lat="45.6270873" lon="11.0261643"/>
+    <nd ref="2477412129" lat="45.6270504" lon="11.0262078"/>
+    <nd ref="1616891003" lat="45.6270050" lon="11.0262335"/>
+    <nd ref="2477412124" lat="45.6269713" lon="11.0262305"/>
+    <nd ref="1616891002" lat="45.6269397" lon="11.0261932"/>
+    <nd ref="2477412121" lat="45.6268871" lon="11.0261314"/>
+    <nd ref="1616891001" lat="45.6268529" lon="11.0260376"/>
+    <nd ref="1616891000" lat="45.6267901" lon="11.0258231"/>
+    <nd ref="1616890999" lat="45.6267371" lon="11.0255868"/>
+    <nd ref="2477412116" lat="45.6267159" lon="11.0255440"/>
+    <nd ref="1616890998" lat="45.6266933" lon="11.0255201"/>
+    <nd ref="1616890997" lat="45.6266621" lon="11.0255135"/>
+    <nd ref="1616890996" lat="45.6265850" lon="11.0255211"/>
+    <nd ref="1616890995" lat="45.6265178" lon="11.0255432"/>
+    <nd ref="1616890994" lat="45.6264057" lon="11.0256268"/>
+    <nd ref="1616890993" lat="45.6263270" lon="11.0256803"/>
+    <nd ref="1616890992" lat="45.6262465" lon="11.0257655"/>
+    <nd ref="1616890991" lat="45.6261087" lon="11.0259137"/>
+    <nd ref="1616890990" lat="45.6259896" lon="11.0260303"/>
+    <nd ref="1616890987" lat="45.6257967" lon="11.0262321"/>
+    <nd ref="1616890984" lat="45.6256600" lon="11.0263661"/>
+    <nd ref="9067574752" lat="45.6255105" lon="11.0265007"/>
+    <nd ref="1616890980" lat="45.6254306" lon="11.0265727"/>
+    <nd ref="1616890978" lat="45.6253016" lon="11.0267256"/>
+    <nd ref="1616890976" lat="45.6251991" lon="11.0268360"/>
+    <nd ref="1616890974" lat="45.6251142" lon="11.0268691"/>
+    <nd ref="1616890972" lat="45.6250403" lon="11.0268801"/>
+    <nd ref="1616890970" lat="45.6249885" lon="11.0269211"/>
+    <nd ref="1616890968" lat="45.6249400" lon="11.0269810"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="motorcar" v="agricultural"/>
     <tag k="mtb:scale" v="2"/>
     <tag k="name" v="Via Monte Ortigara"/>
     <tag k="sac_scale" v="mountain_hiking"/>
     <tag k="sac_scale_ref" v="T2"/>
-    <tag k="surface" v="fine_gravel"/>
-    <tag k="tracktype" v="grade2"/>
-  </way>
-</new>
-</action>
-<action type="modify">
-<old>
-  <way id="356640618" version="4" timestamp="2021-07-17T15:00:27Z" changeset="108163524" uid="852319" user="vrmap">
-    <bounds minlat="45.6220825" minlon="11.0302070" maxlat="45.6221713" maxlon="11.0303589"/>
-    <nd ref="2358606847" lat="45.6220825" lon="11.0303589"/>
-    <nd ref="6591462159" lat="45.6221222" lon="11.0302882"/>
-    <nd ref="434432968" lat="45.6221713" lon="11.0302070"/>
     <tag k="surface" v="asphalt"/>
-    <tag k="sac_scale_ref" v="T1"/>
-    <tag k="highway" v="tertiary"/>
-    <tag k="name" v="Via Roma"/>
-    <tag k="oneway" v="yes"/>
-    <tag k="sac_scale" v="hiking"/>
-  </way>
-</old>
-<new>
-  <way id="356640618" version="6" timestamp="2022-05-08T15:47:50Z" changeset="120705794" uid="351361" user="dvdzero">
-    <bounds minlat="45.6220825" minlon="11.0302070" maxlat="45.6221713" maxlon="11.0303589"/>
-    <nd ref="2358606847" lat="45.6220825" lon="11.0303589"/>
-    <nd ref="6591462159" lat="45.6221222" lon="11.0302882"/>
-    <nd ref="434432968" lat="45.6221713" lon="11.0302070"/>
-    <tag k="cycleway:right" v="no"/>
-    <tag k="highway" v="tertiary"/>
-    <tag k="lane_markings" v="no"/>
-    <tag k="name" v="Via Roma"/>
-    <tag k="oneway" v="yes"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-    <tag k="surface" v="asphalt"/>
-  </way>
-</new>
-</action>
-<action type="modify">
-<old>
-  <way id="622714220" version="4" timestamp="2021-07-18T16:11:45Z" changeset="108198582" uid="852319" user="vrmap">
-    <bounds minlat="45.6220719" minlon="11.0288353" maxlat="45.6220980" maxlon="11.0290155"/>
-    <nd ref="5881519863" lat="45.6220719" lon="11.0290155"/>
-    <nd ref="434432994" lat="45.6220980" lon="11.0288353"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="bicycle" v="yes"/>
-    <tag k="foot" v="yes"/>
-    <tag k="goods" v="no"/>
-    <tag k="hgv" v="yes"/>
-    <tag k="highway" v="residential"/>
-    <tag k="hov" v="yes"/>
-    <tag k="lit" v="yes"/>
-    <tag k="moped" v="no"/>
-    <tag k="motor_vehicle" v="no"/>
-    <tag k="motorcar" v="no"/>
-    <tag k="motorcycle" v="no"/>
-    <tag k="name" v="Via Spiazzi"/>
-    <tag k="oneway" v="yes"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-    <tag k="surface" v="sett"/>
-    <tag k="tourist_bus" v="yes"/>
-  </way>
-</old>
-<new>
-  <way id="622714220" version="5" timestamp="2022-05-08T15:11:30Z" changeset="120705550" uid="351361" user="dvdzero">
-    <bounds minlat="45.6220719" minlon="11.0288353" maxlat="45.6220980" maxlon="11.0290155"/>
-    <nd ref="5881519863" lat="45.6220719" lon="11.0290155"/>
-    <nd ref="434432994" lat="45.6220980" lon="11.0288353"/>
-    <tag k="bicycle" v="yes"/>
-    <tag k="foot" v="yes"/>
-    <tag k="goods" v="no"/>
-    <tag k="hgv" v="yes"/>
-    <tag k="highway" v="residential"/>
-    <tag k="hov" v="yes"/>
-    <tag k="lit" v="yes"/>
-    <tag k="moped" v="no"/>
-    <tag k="motor_vehicle" v="no"/>
-    <tag k="motorcar" v="no"/>
-    <tag k="motorcycle" v="no"/>
-    <tag k="name" v="Via Spiazzi"/>
-    <tag k="oneway" v="yes"/>
-    <tag k="sac_scale" v="hiking"/>
-    <tag k="sac_scale_ref" v="T1"/>
-    <tag k="sidewalk" v="no"/>
-    <tag k="surface" v="sett"/>
-    <tag k="tourist_bus" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
+    <tag k="tracktype" v="grade1"/>
   </way>
 </new>
 </action>
