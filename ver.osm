@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-05-23T00:47:54Z" areas="2022-05-23T00:21:30Z"/>
+
+<action type="modify">
+<old>
+  <way id="67249556" version="9" timestamp="2020-09-28T10:52:46Z" changeset="91634978" uid="852319" user="vrmap">
+    <bounds minlat="45.7670886" minlon="10.8646044" maxlat="45.7692462" maxlon="10.8649620"/>
+    <nd ref="7950801684" lat="45.7692462" lon="10.8646047"/>
+    <nd ref="262336332" lat="45.7691988" lon="10.8646096"/>
+    <nd ref="262336331" lat="45.7688727" lon="10.8646044"/>
+    <nd ref="812092990" lat="45.7687084" lon="10.8646318"/>
+    <nd ref="262336330" lat="45.7685702" lon="10.8647212"/>
+    <nd ref="262336329" lat="45.7683606" lon="10.8648242"/>
+    <nd ref="262336328" lat="45.7680613" lon="10.8648070"/>
+    <nd ref="7200209861" lat="45.7679999" lon="10.8647967"/>
+    <nd ref="262336326" lat="45.7675045" lon="10.8648671"/>
+    <nd ref="414213319" lat="45.7673987" lon="10.8648561"/>
+    <nd ref="262336325" lat="45.7672650" lon="10.8648671"/>
+    <nd ref="262336324" lat="45.7670886" lon="10.8649620"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="highway" v="path"/>
+  </way>
+</old>
+<new>
+  <way id="67249556" version="10" timestamp="2022-05-22T19:29:00Z" changeset="121332742" uid="6098724" user="CCCGGG">
+    <bounds minlat="45.7670886" minlon="10.8646044" maxlat="45.7692462" maxlon="10.8649620"/>
+    <nd ref="7950801684" lat="45.7692462" lon="10.8646047"/>
+    <nd ref="262336332" lat="45.7691988" lon="10.8646096"/>
+    <nd ref="262336331" lat="45.7688727" lon="10.8646044"/>
+    <nd ref="812092990" lat="45.7687084" lon="10.8646318"/>
+    <nd ref="262336330" lat="45.7685702" lon="10.8647212"/>
+    <nd ref="262336329" lat="45.7683606" lon="10.8648242"/>
+    <nd ref="262336328" lat="45.7680613" lon="10.8648070"/>
+    <nd ref="7200209861" lat="45.7679999" lon="10.8647967"/>
+    <nd ref="262336326" lat="45.7675045" lon="10.8648671"/>
+    <nd ref="414213319" lat="45.7673987" lon="10.8648561"/>
+    <nd ref="262336325" lat="45.7672650" lon="10.8648671"/>
+    <nd ref="262336324" lat="45.7670886" lon="10.8649620"/>
+    <tag k="highway" v="path"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="surface" v="dirt"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="67249605" version="3" timestamp="2013-06-20T08:38:18Z" changeset="16626691" uid="151374" user="Sembola">
+    <bounds minlat="45.7699021" minlon="10.8641190" maxlat="45.7719092" maxlon="10.8648997"/>
+    <nd ref="812093327" lat="45.7719092" lon="10.8648015"/>
+    <nd ref="812092886" lat="45.7717714" lon="10.8648581"/>
+    <nd ref="1808840348" lat="45.7716230" lon="10.8648997"/>
+    <nd ref="278629029" lat="45.7715405" lon="10.8648792"/>
+    <nd ref="1808840339" lat="45.7713248" lon="10.8647638"/>
+    <nd ref="812093275" lat="45.7711929" lon="10.8646617"/>
+    <nd ref="456717425" lat="45.7708999" lon="10.8642704"/>
+    <nd ref="1808840332" lat="45.7708335" lon="10.8641606"/>
+    <nd ref="811789224" lat="45.7707823" lon="10.8641190"/>
+    <nd ref="812093052" lat="45.7706588" lon="10.8641441"/>
+    <nd ref="812092857" lat="45.7704773" lon="10.8641813"/>
+    <nd ref="456717426" lat="45.7702742" lon="10.8642071"/>
+    <nd ref="812092822" lat="45.7699960" lon="10.8641866"/>
+    <nd ref="171016863" lat="45.7699021" lon="10.8642235"/>
+    <tag k="tracktype" v="grade3"/>
+    <tag k="highway" v="track"/>
+    <tag k="sac_scale" v="hiking"/>
+  </way>
+</old>
+<new>
+  <way id="67249605" version="4" timestamp="2022-05-22T19:29:18Z" changeset="121333287" uid="6098724" user="CCCGGG">
+    <bounds minlat="45.7699021" minlon="10.8641190" maxlat="45.7719092" maxlon="10.8648997"/>
+    <nd ref="812093327" lat="45.7719092" lon="10.8648015"/>
+    <nd ref="812092886" lat="45.7717714" lon="10.8648581"/>
+    <nd ref="1808840348" lat="45.7716230" lon="10.8648997"/>
+    <nd ref="278629029" lat="45.7715405" lon="10.8648792"/>
+    <nd ref="1808840339" lat="45.7713248" lon="10.8647638"/>
+    <nd ref="812093275" lat="45.7711929" lon="10.8646617"/>
+    <nd ref="456717425" lat="45.7708999" lon="10.8642704"/>
+    <nd ref="1808840332" lat="45.7708335" lon="10.8641606"/>
+    <nd ref="811789224" lat="45.7707823" lon="10.8641190"/>
+    <nd ref="812093052" lat="45.7706588" lon="10.8641441"/>
+    <nd ref="812092857" lat="45.7704773" lon="10.8641813"/>
+    <nd ref="456717426" lat="45.7702742" lon="10.8642071"/>
+    <nd ref="812092822" lat="45.7699960" lon="10.8641866"/>
+    <nd ref="171016863" lat="45.7699021" lon="10.8642235"/>
+    <tag k="highway" v="track"/>
+    <tag k="sac_scale" v="hiking"/>
+    <tag k="surface" v="dirt"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+</new>
+</action>
+
+</osm>
