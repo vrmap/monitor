@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.58.2 2b5354b1">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-06-11T20:18:11Z" areas="2022-06-11T20:18:11Z"/>
+
+<action type="modify">
+<old>
+  <node id="6772920315" lat="45.6237233" lon="11.1101191" version="1" timestamp="2019-09-04T19:51:35Z" changeset="74103038" uid="9469412" user="MAXWOLF67">
+    <tag k="name" v="Vicino a contrada Foi"/>
+    <tag k="hiking" v="yes"/>
+    <tag k="information" v="guidepost"/>
+    <tag k="operator" v="Club Alpino Italiano Sezione di Tregnago"/>
+    <tag k="source" v="survey:CAI"/>
+    <tag k="support" v="pole"/>
+    <tag k="tourism" v="information"/>
+  </node>
+</old>
+<new>
+  <node id="6772920315" lat="45.6237233" lon="11.1101191" version="2" timestamp="2022-06-11T08:06:14Z" changeset="122238752" uid="852319" user="vrmap">
+    <tag k="hiking" v="yes"/>
+    <tag k="information" v="guidepost"/>
+    <tag k="name" v="Foi"/>
+    <tag k="operator" v="Club Alpino Italiano Sezione di Tregnago"/>
+    <tag k="source" v="survey:CAI"/>
+    <tag k="support" v="pole"/>
+    <tag k="tourism" v="information"/>
+  </node>
+</new>
+</action>
+
+</osm>
