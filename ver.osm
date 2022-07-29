@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-07-29T00:57:40Z" areas="2022-07-20T10:48:09Z"/>
+
+<action type="modify">
+<old>
+  <way id="342105838" version="3" timestamp="2022-03-20T20:54:54Z" changeset="118710457" uid="351361" user="dvdzero">
+    <bounds minlat="45.6551740" minlon="10.9122203" maxlat="45.6552478" maxlon="10.9122254"/>
+    <nd ref="3491362653" lat="45.6552478" lon="10.9122203"/>
+    <nd ref="3491362643" lat="45.6551740" lon="10.9122254"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="ref" v="SP57"/>
+  </way>
+</old>
+<new>
+  <way id="342105838" version="4" timestamp="2022-07-28T09:49:25Z" changeset="124177042" uid="351361" user="dvdzero">
+    <bounds minlat="45.6551740" minlon="10.9122203" maxlat="45.6552478" maxlon="10.9122254"/>
+    <nd ref="3491362653" lat="45.6552478" lon="10.9122203"/>
+    <nd ref="3491362643" lat="45.6551740" lon="10.9122254"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="ref" v="SP57"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="342105843" version="2" timestamp="2021-11-21T16:29:21Z" changeset="114063989" uid="351361" user="dvdzero">
+    <bounds minlat="45.6506640" minlon="10.9183465" maxlat="45.6508131" maxlon="10.9186093"/>
+    <nd ref="3491363580" lat="45.6508131" lon="10.9186093"/>
+    <nd ref="263679211" lat="45.6506640" lon="10.9183465"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="ref" v="SP57"/>
+    <tag k="highway" v="secondary"/>
+  </way>
+</old>
+<new>
+  <way id="342105843" version="4" timestamp="2022-07-28T09:50:11Z" changeset="124177042" uid="351361" user="dvdzero">
+    <bounds minlat="45.6506640" minlon="10.9183465" maxlat="45.6508131" maxlon="10.9186093"/>
+    <nd ref="3491363580" lat="45.6508131" lon="10.9186093"/>
+    <nd ref="263679211" lat="45.6506640" lon="10.9183465"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="ref" v="SP57"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="342105849" version="3" timestamp="2022-03-20T20:54:49Z" changeset="118710457" uid="351361" user="dvdzero">
+    <bounds minlat="45.6550746" minlon="10.9111631" maxlat="45.6552699" maxlon="10.9112714"/>
+    <nd ref="3491363735" lat="45.6550746" lon="10.9111631"/>
+    <nd ref="263678747" lat="45.6552125" lon="10.9112436"/>
+    <nd ref="3491362658" lat="45.6552699" lon="10.9112714"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="ref" v="SP57"/>
+  </way>
+</old>
+<new>
+  <way id="342105849" version="4" timestamp="2022-07-28T09:49:20Z" changeset="124177042" uid="351361" user="dvdzero">
+    <bounds minlat="45.6550746" minlon="10.9111631" maxlat="45.6552699" maxlon="10.9112714"/>
+    <nd ref="3491363735" lat="45.6550746" lon="10.9111631"/>
+    <nd ref="263678747" lat="45.6552125" lon="10.9112436"/>
+    <nd ref="3491362658" lat="45.6552699" lon="10.9112714"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="ref" v="SP57"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</new>
+</action>
+<action type="modify">
+<old>
+  <way id="342105856" version="4" timestamp="2022-03-20T20:54:28Z" changeset="118710457" uid="351361" user="dvdzero">
+    <bounds minlat="45.6552289" minlon="10.9062653" maxlat="45.6563833" maxlon="10.9068118"/>
+    <nd ref="3491364516" lat="45.6563833" lon="10.9062653"/>
+    <nd ref="3491364506" lat="45.6563172" lon="10.9063615"/>
+    <nd ref="263678669" lat="45.6562356" lon="10.9064158"/>
+    <nd ref="263678670" lat="45.6560964" lon="10.9064584"/>
+    <nd ref="3491362650" lat="45.6552289" lon="10.9068118"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Strada Provinciale 57 dell'Altopiano"/>
+    <tag k="ref" v="SP57"/>
+  </way>
+</old>
+<new>
+  <way id="342105856" version="5" timestamp="2022-07-28T09:49:09Z" changeset="124177042" uid="351361" user="dvdzero">
+    <bounds minlat="45.6552289" minlon="10.9062653" maxlat="45.6563833" maxlon="10.9068118"/>
+    <nd ref="3491364516" lat="45.6563833" lon="10.9062653"/>
+    <nd ref="3491364506" lat="45.6563172" lon="10.9063615"/>
+    <nd ref="263678669" lat="45.6562356" lon="10.9064158"/>
+    <nd ref="263678670" lat="45.6560964" lon="10.9064584"/>
+    <nd ref="3491362650" lat="45.6552289" lon="10.9068118"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="name" v="Strada Provinciale 57 dell'Altopiano"/>
+    <tag k="ref" v="SP57"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</new>
+</action>
+
+</osm>
