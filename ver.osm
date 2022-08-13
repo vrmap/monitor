@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-08-13T00:49:17Z" areas="2022-07-20T11:06:24Z"/>
+
+<action type="modify">
+<old>
+  <way id="268554241" version="10" timestamp="2022-04-04T04:48:44Z" changeset="119284876" uid="1624486" user="thetornado76">
+    <bounds minlat="45.6840706" minlon="10.7502734" maxlat="45.6847048" maxlon="10.7505138"/>
+    <nd ref="171025756" lat="45.6847048" lon="10.7505138"/>
+    <nd ref="5744082616" lat="45.6846856" lon="10.7504620"/>
+    <nd ref="171025739" lat="45.6846477" lon="10.7504089"/>
+    <nd ref="5744082617" lat="45.6845918" lon="10.7503495"/>
+    <nd ref="820820792" lat="45.6845390" lon="10.7503080"/>
+    <nd ref="5744082618" lat="45.6844835" lon="10.7502872"/>
+    <nd ref="5744082619" lat="45.6844116" lon="10.7502734"/>
+    <nd ref="171025731" lat="45.6842964" lon="10.7502743"/>
+    <nd ref="5744082620" lat="45.6842464" lon="10.7502935"/>
+    <nd ref="171025694" lat="45.6842112" lon="10.7503108"/>
+    <nd ref="9535876259" lat="45.6841597" lon="10.7503130"/>
+    <nd ref="809716433" lat="45.6840706" lon="10.7504395"/>
+    <tag k="width" v="1.6"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+    <tag k="maxwidth" v="1.5"/>
+    <tag k="motorcar" v="permissive"/>
+    <tag k="name" v="Via Don G. Trecca"/>
+    <tag k="sac_scale" v="mountain_hiking"/>
+    <tag k="sidewalk" v="no"/>
+  </way>
+</old>
+<new>
+  <way id="268554241" version="12" timestamp="2022-08-12T13:44:24Z" changeset="124819688" uid="11449631" user="SimoGine">
+    <bounds minlat="45.6840706" minlon="10.7502734" maxlat="45.6847048" maxlon="10.7505138"/>
+    <nd ref="171025756" lat="45.6847048" lon="10.7505138"/>
+    <nd ref="5744082616" lat="45.6846856" lon="10.7504620"/>
+    <nd ref="171025739" lat="45.6846477" lon="10.7504089"/>
+    <nd ref="5744082617" lat="45.6845918" lon="10.7503495"/>
+    <nd ref="820820792" lat="45.6845390" lon="10.7503080"/>
+    <nd ref="5744082618" lat="45.6844835" lon="10.7502872"/>
+    <nd ref="5744082619" lat="45.6844116" lon="10.7502734"/>
+    <nd ref="171025731" lat="45.6842964" lon="10.7502743"/>
+    <nd ref="5744082620" lat="45.6842464" lon="10.7502935"/>
+    <nd ref="171025694" lat="45.6842112" lon="10.7503108"/>
+    <nd ref="9535876259" lat="45.6841597" lon="10.7503130"/>
+    <nd ref="809716433" lat="45.6840706" lon="10.7504395"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed:type" v="IT:urban"/>
+    <tag k="maxwidth" v="1.5"/>
+    <tag k="motorcar" v="permissive"/>
+    <tag k="name" v="Via Don G. Trecca"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sac_scale" v="mountain_hiking"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="1.6"/>
+  </way>
+</new>
+</action>
+
+</osm>
