@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-08-16T01:03:02Z" areas="2022-07-20T11:06:24Z"/>
+
+<action type="modify">
+<old>
+  <way id="61876500" version="7" timestamp="2014-08-13T06:40:23Z" changeset="24716622" uid="852319" user="vrmap">
+    <bounds minlat="45.5919574" minlon="11.0436716" maxlat="45.5988944" maxlon="11.0466760"/>
+    <nd ref="411296305" lat="45.5919574" lon="11.0466760"/>
+    <nd ref="771183995" lat="45.5920597" lon="11.0466465"/>
+    <nd ref="771184014" lat="45.5926436" lon="11.0459901"/>
+    <nd ref="771183986" lat="45.5931868" lon="11.0454560"/>
+    <nd ref="771183978" lat="45.5935508" lon="11.0451806"/>
+    <nd ref="771184017" lat="45.5939362" lon="11.0451041"/>
+    <nd ref="771184034" lat="45.5942038" lon="11.0450582"/>
+    <nd ref="771184007" lat="45.5947070" lon="11.0453336"/>
+    <nd ref="771184027" lat="45.5952624" lon="11.0453331"/>
+    <nd ref="771184020" lat="45.5957587" lon="11.0451415"/>
+    <nd ref="771183971" lat="45.5961267" lon="11.0449555"/>
+    <nd ref="2319554884" lat="45.5963833" lon="11.0447596"/>
+    <nd ref="771184009" lat="45.5966579" lon="11.0445815"/>
+    <nd ref="771184002" lat="45.5971715" lon="11.0443197"/>
+    <nd ref="2319554883" lat="45.5975093" lon="11.0441239"/>
+    <nd ref="771183975" lat="45.5977515" lon="11.0440408"/>
+    <nd ref="2319554896" lat="45.5979222" lon="11.0440059"/>
+    <nd ref="2319554898" lat="45.5981850" lon="11.0438450"/>
+    <nd ref="771183991" lat="45.5984890" lon="11.0437001"/>
+    <nd ref="3013745548" lat="45.5986933" lon="11.0436716"/>
+    <nd ref="771184030" lat="45.5988944" lon="11.0436767"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="name" v="Via Squaranto"/>
+    <tag k="class:bicycle" v="2"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+</old>
+<new>
+  <way id="61876500" version="9" timestamp="2022-08-15T19:38:47Z" changeset="124943055" uid="351361" user="dvdzero">
+    <bounds minlat="45.5919574" minlon="11.0436716" maxlat="45.5988944" maxlon="11.0466760"/>
+    <nd ref="411296305" lat="45.5919574" lon="11.0466760"/>
+    <nd ref="771183995" lat="45.5920597" lon="11.0466465"/>
+    <nd ref="771184014" lat="45.5926436" lon="11.0459901"/>
+    <nd ref="771183986" lat="45.5931868" lon="11.0454560"/>
+    <nd ref="771183978" lat="45.5935508" lon="11.0451806"/>
+    <nd ref="771184017" lat="45.5939362" lon="11.0451041"/>
+    <nd ref="771184034" lat="45.5942038" lon="11.0450582"/>
+    <nd ref="771184007" lat="45.5947070" lon="11.0453336"/>
+    <nd ref="771184027" lat="45.5952624" lon="11.0453331"/>
+    <nd ref="771184020" lat="45.5957587" lon="11.0451415"/>
+    <nd ref="771183971" lat="45.5961267" lon="11.0449555"/>
+    <nd ref="2319554884" lat="45.5963833" lon="11.0447596"/>
+    <nd ref="771184009" lat="45.5966579" lon="11.0445815"/>
+    <nd ref="771184002" lat="45.5971715" lon="11.0443197"/>
+    <nd ref="2319554883" lat="45.5975093" lon="11.0441239"/>
+    <nd ref="771183975" lat="45.5977515" lon="11.0440408"/>
+    <nd ref="2319554896" lat="45.5979222" lon="11.0440059"/>
+    <nd ref="2319554898" lat="45.5981850" lon="11.0438450"/>
+    <nd ref="771183991" lat="45.5984890" lon="11.0437001"/>
+    <nd ref="3013745548" lat="45.5986933" lon="11.0436716"/>
+    <nd ref="771184030" lat="45.5988944" lon="11.0436767"/>
+    <tag k="class:bicycle" v="2"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="name" v="Via Squaranto"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</new>
+</action>
+
+</osm>
